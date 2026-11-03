@@ -1,0 +1,3281 @@
+{
+  "hunter-x-hunter": {
+    "killua zoldyck": {
+      "id": 27,
+      "full": "Killua Zoldyck",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b27-Z5O02kQUydpT.jpg",
+      "alt": [
+        "Kill",
+        "Kil",
+        "Evans"
+      ],
+      "role": "MAIN"
+    },
+    "kurapika": {
+      "id": 28,
+      "full": "Kurapika",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b28-ivA7UGnfE40a.png",
+      "alt": [
+        "Chain User",
+        "Chain Bastard"
+      ],
+      "role": "MAIN"
+    },
+    "leorio paradinight": {
+      "id": 29,
+      "full": "Leorio Paradinight",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b29-RgzoSeKmDYzl.jpg",
+      "alt": [
+        "Leorio Paradiknight",
+        "Leorio Paladiknight"
+      ],
+      "role": "MAIN"
+    },
+    "gon freecss": {
+      "id": 30,
+      "full": "Gon Freecss",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b30-lyFExKyDhefc.jpg",
+      "alt": [],
+      "role": "MAIN"
+    },
+    "hisoka morow": {
+      "id": 31,
+      "full": "Hisoka Morow",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b31-FZckOuu7L1un.png",
+      "alt": [
+        "Hisoka Morou",
+        "The Magician",
+        "Grim Reaper"
+      ],
+      "role": "SUPPORTING"
+    },
+    "ging freecss": {
+      "id": 26,
+      "full": "Ging Freecss",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/26-VpZXIwOdcz8p.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "illumi zoldyck": {
+      "id": 57,
+      "full": "Illumi Zoldyck",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b57-pTFguojSOQZW.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "chrollo lucilfer": {
+      "id": 58,
+      "full": "Chrollo Lucilfer",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b58-USOmsz3nursi.jpg",
+      "alt": [
+        "Kuroro Rushirufuru",
+        "Danchou",
+        "Quwrof Wrlccywrlir"
+      ],
+      "role": "SUPPORTING"
+    },
+    "zeno zoldyck": {
+      "id": 59,
+      "full": "Zeno Zoldyck",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n59-6mnrlhnGe2mw.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "silva zoldyck": {
+      "id": 60,
+      "full": "Silva Zoldyck",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/60.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "feitan portor": {
+      "id": 3195,
+      "full": "Feitan Portor",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/3195.jpg",
+      "alt": [
+        "Fei"
+      ],
+      "role": "SUPPORTING"
+    },
+    "bonolenov ndongo": {
+      "id": 5827,
+      "full": "Bonolenov Ndongo",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/5827.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "franklin bordeaux": {
+      "id": 5828,
+      "full": "Franklin Bordeaux",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n5828-cMOh5ifgAEW1.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "kortopi": {
+      "id": 5829,
+      "full": "Kortopi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n5829-ubGjeYxlPnxL.png",
+      "alt": [
+        "Koltopi"
+      ],
+      "role": "SUPPORTING"
+    },
+    "machi komacine": {
+      "id": 5830,
+      "full": "Machi Komacine",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b5830-IEl8BCasHZvG.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "nobunaga hazama": {
+      "id": 5831,
+      "full": "Nobunaga Hazama",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n5831-COYqtVagw99J.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "shalnark ryuseih": {
+      "id": 5832,
+      "full": "Shalnark Ryuseih",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/5832.jpg",
+      "alt": [
+        "Shal"
+      ],
+      "role": "SUPPORTING"
+    },
+    "shizuku murasaki": {
+      "id": 5833,
+      "full": "Shizuku Murasaki",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/5833.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "phinks magcub": {
+      "id": 5834,
+      "full": "Phinks Magcub",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n5834-s3A4bR8IX01p.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "pakunoda": {
+      "id": 5835,
+      "full": "Pakunoda",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b5835-cbomgYG3LWrP.jpg",
+      "alt": [
+        "Paku",
+        "Phalcnothdk"
+      ],
+      "role": "SUPPORTING"
+    },
+    "uvogin": {
+      "id": 5836,
+      "full": "Uvogin",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/5836.jpg",
+      "alt": [
+        "Uvo"
+      ],
+      "role": "SUPPORTING"
+    },
+    "baka ki el dogra": {
+      "id": 6013,
+      "full": "Baka Ki El Dogra",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b6013-KlW2B29yaxwP.png",
+      "alt": [
+        "Prince",
+        "Baka-ouji"
+      ],
+      "role": "SUPPORTING"
+    },
+    "menchi": {
+      "id": 6088,
+      "full": "Menchi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b6088-Bih7EhJL1QE6.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "kalluto zoldyck": {
+      "id": 6089,
+      "full": "Kalluto Zoldyck",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n6089-ro8HdSKvlycB.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "leroute": {
+      "id": 10535,
+      "full": "Leroute",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n10535-iCSNBBSq22iD.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "neferpitou": {
+      "id": 12300,
+      "full": "Neferpitou",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b12300-kYzopQUTLa9A.png",
+      "alt": [
+        "Pitou"
+      ],
+      "role": "SUPPORTING"
+    },
+    "senritsu": {
+      "id": 12515,
+      "full": "Senritsu",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b12515-Jgj0kBXgBmhf.jpg",
+      "alt": [
+        "Melody"
+      ],
+      "role": "SUPPORTING"
+    },
+    "biscuit krueger": {
+      "id": 13898,
+      "full": "Biscuit Krueger",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b13898-nHq3fRmp9uPD.png",
+      "alt": [
+        "ビスケ",
+        "Bisky"
+      ],
+      "role": "SUPPORTING"
+    },
+    "komugi": {
+      "id": 14313,
+      "full": "Komugi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/14313-J4CtnaAZidUe.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "isaac netero": {
+      "id": 14489,
+      "full": "Isaac Netero",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b14489-WgGsdlQJka65.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "neon nostrade": {
+      "id": 17564,
+      "full": "Neon Nostrade",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b17564-tJHe64LxFqm1.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "riehlvelt": {
+      "id": 17720,
+      "full": "Riehlvelt",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b17720-7WEaYkPoQSB8.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "light nostrade": {
+      "id": 18108,
+      "full": "Light Nostrade",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b18108-NVyC0NCmyBnA.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "kite": {
+      "id": 20594,
+      "full": "Kite",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b20594-QQJBR3LYobbv.jpg",
+      "alt": [
+        "Kaito"
+      ],
+      "role": "SUPPORTING"
+    },
+    "hanzou": {
+      "id": 20677,
+      "full": "Hanzou",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b20677-I7bchq2Ema7S.jpg",
+      "alt": [
+        "半藏"
+      ],
+      "role": "SUPPORTING"
+    },
+    "mito freecss": {
+      "id": 20678,
+      "full": "Mito Freecss",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b20678-srslmpp3o4yK.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "razor": {
+      "id": 22518,
+      "full": "Razor",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b22518-uoFnMXlU3kAo.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "satotz": {
+      "id": 22519,
+      "full": "Satotz",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b22519-8eXaBryPSRL5.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "wing": {
+      "id": 22521,
+      "full": "Wing",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b22521-lW31xQRGKQm8.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "tonpa": {
+      "id": 22522,
+      "full": "Tonpa",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b22522-a0LOc6iIj2LU.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "meruem": {
+      "id": 23277,
+      "full": "Meruem",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b23277-EYmIxzL64Mji.png",
+      "alt": [
+        "Ou (王)",
+        "The King"
+      ],
+      "role": "SUPPORTING"
+    },
+    "ponzu": {
+      "id": 24279,
+      "full": "Ponzu",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b24279-wCttqcLJ3W2b.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "ikalgo": {
+      "id": 29805,
+      "full": "Ikalgo",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/29805-YicEgIbxmSkv.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "morel mackernasey": {
+      "id": 29806,
+      "full": "Morel Mackernasey",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b29806-49vvaQbvx7Ag.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "shoot mcmahon": {
+      "id": 29807,
+      "full": "Shoot McMahon",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/29807.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "meleoron": {
+      "id": 29808,
+      "full": "Meleoron",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/29808.jpg",
+      "alt": [
+        "Jail"
+      ],
+      "role": "SUPPORTING"
+    },
+    "knuckle bine": {
+      "id": 29809,
+      "full": "Knuckle Bine",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b29809-wAoam5TkZilJ.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "barry": {
+      "id": 33283,
+      "full": "Barry",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/33283.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "bopobo": {
+      "id": 33284,
+      "full": "Bopobo",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/33284.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "tsezguerra": {
+      "id": 33285,
+      "full": "Tsezguerra",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b33285-n1K7KaTFVj5D.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "goreinu": {
+      "id": 33299,
+      "full": "Goreinu",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/33299.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "genthru": {
+      "id": 33300,
+      "full": "Genthru",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/33300.jpg",
+      "alt": [
+        "Gensuru"
+      ],
+      "role": "SUPPORTING"
+    },
+    "abengane": {
+      "id": 33301,
+      "full": "Abengane",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b33301-L5YufdK5sH8T.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "bara": {
+      "id": 33303,
+      "full": "Bara",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b33303-n4wE5Iveb8JB.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "sub": {
+      "id": 33304,
+      "full": "Sub",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/33304.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "dwun": {
+      "id": 33308,
+      "full": "Dwun",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b33308-EyigSABUMwgq.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "binolt": {
+      "id": 33347,
+      "full": "Binolt",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/33347.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "battera": {
+      "id": 33348,
+      "full": "Battera",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b33348-3WwMa97vvWnh.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "puhat": {
+      "id": 33350,
+      "full": "Puhat",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b33350-EMRaTHkCTJqe.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "elena": {
+      "id": 33351,
+      "full": "Elena",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b33351-zLsDLpkrgGwd.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "eeta": {
+      "id": 33352,
+      "full": "Eeta",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b33352-SoU0ScSSvUNP.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "list": {
+      "id": 33353,
+      "full": "List",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b33353-hKq5OAI4v4h9.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "no. 0": {
+      "id": 33354,
+      "full": "No. 0",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b33354-qZtrIlwiE0IP.jpg",
+      "alt": [
+        "Zero"
+      ],
+      "role": "SUPPORTING"
+    },
+    "kess": {
+      "id": 33355,
+      "full": "Kess",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/33355.jpg",
+      "alt": [
+        "Dopple"
+      ],
+      "role": "SUPPORTING"
+    },
+    "asta": {
+      "id": 33356,
+      "full": "Asta",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b33356-vhQA7wANJ8UP.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "kazsule": {
+      "id": 33357,
+      "full": "Kazsule",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b33357-F3pQUOayGdDH.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "milluki zoldyck": {
+      "id": 33375,
+      "full": "Milluki Zoldyck",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b33375-uyAQDvo1lZc2.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "pokkle": {
+      "id": 33376,
+      "full": "Pokkle",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b33376-5IQ7MSCuXOb1.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "baise": {
+      "id": 33378,
+      "full": "Baise",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b33378-CCUuuCbPk9qy.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "squala": {
+      "id": 33379,
+      "full": "Squala",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b33379-w79Z4LElSXNo.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "basho": {
+      "id": 33380,
+      "full": "Basho",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n33380-8sbAnMeufQkH.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "sachmono tocino": {
+      "id": 33381,
+      "full": "Sachmono Tocino",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b33381-yzXRIULW2ChX.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "dalzollene": {
+      "id": 33382,
+      "full": "Dalzollene",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b33382-5Jvz56mXsxl4.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "palm siberia": {
+      "id": 34054,
+      "full": "Palm Siberia",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b34054-QJaRVZMUmZNs.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "canary": {
+      "id": 35894,
+      "full": "Canary",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b35894-pIxaSDFr0oGe.png",
+      "alt": [
+        "Kanaria"
+      ],
+      "role": "SUPPORTING"
+    },
+    "siper": {
+      "id": 38620,
+      "full": "Siper",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b38620-Hm0w68i7GM8M.png",
+      "alt": [
+        "Sniper"
+      ],
+      "role": "SUPPORTING"
+    },
+    "anita": {
+      "id": 38622,
+      "full": "Anita",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/38622.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "zushi": {
+      "id": 43931,
+      "full": "Zushi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b43931-7ork3ZzLbGe6.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "katzo": {
+      "id": 49569,
+      "full": "Katzo",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b49569-4SdIezCcFECx.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "senchou": {
+      "id": 49757,
+      "full": "Senchou",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b49757-z0flD3pwd5Bq.jpg",
+      "alt": [
+        "Captain"
+      ],
+      "role": "SUPPORTING"
+    },
+    "hi-sobo": {
+      "id": 49759,
+      "full": "Hi-sobo",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b49759-SFguG9pkcpCy.png",
+      "alt": [
+        "Obaa-chan",
+        "Grandma"
+      ],
+      "role": "SUPPORTING"
+    },
+    "nicolas": {
+      "id": 50243,
+      "full": "Nicolas",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b50243-HdWPAllkQPp4.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "gereta": {
+      "id": 50695,
+      "full": "Gereta",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b50695-VUoHaVoyPqCF.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "buhara": {
+      "id": 50847,
+      "full": "Buhara",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b50847-XGj2qeYWkvIK.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "lippo": {
+      "id": 52399,
+      "full": "Lippo",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b52399-NPrfid9JYTDv.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "majitani": {
+      "id": 52497,
+      "full": "Majitani",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b52497-TYAsMF2XBFeG.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "beans": {
+      "id": 53271,
+      "full": "Beans",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/53271.jpg",
+      "alt": [
+        "Maamen"
+      ],
+      "role": "SUPPORTING"
+    },
+    "johness": {
+      "id": 53275,
+      "full": "Johness",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b53275-yZ5qpYYl7ZUL.jpg",
+      "alt": [
+        "The Dissector"
+      ],
+      "role": "SUPPORTING"
+    },
+    "sedokan": {
+      "id": 53277,
+      "full": "Sedokan",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b53277-rLJlRKZuXF7y.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "bendot": {
+      "id": 53279,
+      "full": "Bendot",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b53279-CosyMp3DE5b7.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "togari": {
+      "id": 53559,
+      "full": "Togari",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b53559-3mFYhuXvFBRg.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "todo": {
+      "id": 53561,
+      "full": "Todo",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b53561-dgKEiKjMYV97.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "gozu": {
+      "id": 54129,
+      "full": "Gozu",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b54129-v9v9aSqpHzyd.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "sommy": {
+      "id": 55949,
+      "full": "Sommy",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b55949-8zgkFZLVPo0p.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "bodoro": {
+      "id": 57757,
+      "full": "Bodoro",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b57757-XH4bpyMbNXBb.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "bourbon": {
+      "id": 57761,
+      "full": "Bourbon",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b57761-e4GtJz64H1MH.png",
+      "alt": [
+        "Snake Charmer"
+      ],
+      "role": "SUPPORTING"
+    },
+    "zebro": {
+      "id": 58907,
+      "full": "Zebro",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b58907-3SLuvUqD7jxY.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "kikyo zoldyck": {
+      "id": 59457,
+      "full": "Kikyo Zoldyck",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b59457-r6WAzVNE0zUH.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "gotou": {
+      "id": 60009,
+      "full": "Gotou",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b60009-e0TWRv9Mwvtd.jpg",
+      "alt": [
+        "Gotoh"
+      ],
+      "role": "SUPPORTING"
+    },
+    "seaquant": {
+      "id": 61953,
+      "full": "Seaquant",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b61953-Tk4aihyRdupi.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "kiriko": {
+      "id": 61955,
+      "full": "Kiriko",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/61955.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "kastro": {
+      "id": 63099,
+      "full": "Kastro",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b63099-9W2TXlY0ewX3.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "umori": {
+      "id": 63539,
+      "full": "Umori",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/63539.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "amori": {
+      "id": 63541,
+      "full": "Amori",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/63541.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "imori": {
+      "id": 63543,
+      "full": "Imori",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/63543.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "sadaso": {
+      "id": 64137,
+      "full": "Sadaso",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b64137-XqGzWE3N38Wx.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "gido": {
+      "id": 64513,
+      "full": "Gido",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b64513-QfeHMcTTlXaa.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    }
+  },
+  "naruto": {
+    "sasuke uchiha": {
+      "id": 13,
+      "full": "Sasuke Uchiha",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b13-SISLEw1oAD7a.png",
+      "alt": [
+        "The Uchiha Survivor",
+        "The Last Uchiha",
+        "Sasuke of the Sharingan"
+      ],
+      "role": "MAIN"
+    },
+    "naruto uzumaki": {
+      "id": 17,
+      "full": "Naruto Uzumaki",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b17-phjcWCkRuIhu.png",
+      "alt": [
+        "Nine-Tails Jinchuuriki",
+        "The Show-Off",
+        "Number One Unpredictable",
+        "Noisy Ninja",
+        "Number One Hyperactive",
+        "Knucklehead Ninja",
+        "Fox"
+      ],
+      "role": "MAIN"
+    },
+    "kakashi hatake": {
+      "id": 85,
+      "full": "Kakashi Hatake",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b85-mkVBh2yjxjmx.png",
+      "alt": [
+        "The Copy Ninja",
+        "Kakashi of the Sharingan",
+        "Sukea"
+      ],
+      "role": "MAIN"
+    },
+    "sakura haruno": {
+      "id": 145,
+      "full": "Sakura Haruno",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b145-IorfpI8arxeX.png",
+      "alt": [],
+      "role": "MAIN"
+    },
+    "itachi uchiha": {
+      "id": 14,
+      "full": "Itachi Uchiha",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b14-9Kb1E5oel1ke.png",
+      "alt": [
+        "Sharingan no Itachi (写輪眼のイタチ)",
+        "Itachi of the Sharingan"
+      ],
+      "role": "SUPPORTING"
+    },
+    "rock lee": {
+      "id": 306,
+      "full": "Rock Lee",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b306-oUTOO45xInXt.png",
+      "alt": [
+        "Bushy Brows",
+        "The Green Beast of Konoha"
+      ],
+      "role": "SUPPORTING"
+    },
+    "guy might": {
+      "id": 307,
+      "full": "Guy Might",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b307-xieUEdhdTVwQ.png",
+      "alt": [
+        "Leaf's Noble Green Beast",
+        "Konoha no Kedakaki Aoi Moujuu (木ノ葉の気高き碧い猛獣)",
+        "Bushier Brows Sensei",
+        "Gekimayu-sensei (ゲキマユ先生)"
+      ],
+      "role": "SUPPORTING"
+    },
+    "zabuza momochi": {
+      "id": 728,
+      "full": "Zabuza Momochi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b728-zHw77BzLzQKT.jpg",
+      "alt": [
+        "Kirigakure no Kijin (霧隠れの鬼人)",
+        "Demon of the Hidden Mist"
+      ],
+      "role": "SUPPORTING"
+    },
+    "anko mitarashi": {
+      "id": 809,
+      "full": "Anko Mitarashi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b809-FhWTN0LFVzRa.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "hinata hyuuga": {
+      "id": 1555,
+      "full": "Hinata Hyuuga",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b1555-Q41GLTV3FvYF.png",
+      "alt": [
+        "Byakugan Princess (白眼の姫)",
+        "Byakugan no Hime"
+      ],
+      "role": "SUPPORTING"
+    },
+    "gaara": {
+      "id": 1662,
+      "full": "Gaara",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b1662-4E5J0LX9jZKZ.png",
+      "alt": [
+        "Gaara of the Desert",
+        "Sabaku no Gaara"
+      ],
+      "role": "SUPPORTING"
+    },
+    "neji hyuuga": {
+      "id": 1694,
+      "full": "Neji Hyuuga",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b1694-TL4obouDwJ7k.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "sasori": {
+      "id": 1900,
+      "full": "Sasori",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b1900-Dpd9wVWtlvIx.png",
+      "alt": [
+        "Akasuna no Sasori (赤砂のサソリ)",
+        "Sasori of the Red Sand"
+      ],
+      "role": "SUPPORTING"
+    },
+    "sai": {
+      "id": 1901,
+      "full": "Sai",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b1901-vJRGRONNpaiG.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "deidara": {
+      "id": 1902,
+      "full": "Deidara",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b1902-JsEFRFwjmtZJ.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "suigetsu houzuki": {
+      "id": 1903,
+      "full": "Suigetsu Houzuki",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/1903.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "yamato": {
+      "id": 2006,
+      "full": "Yamato",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b2006-FTCz2Eu3cXsI.png",
+      "alt": [
+        "Tenzou (テンゾウ)"
+      ],
+      "role": "SUPPORTING"
+    },
+    "shikamaru nara": {
+      "id": 2007,
+      "full": "Shikamaru Nara",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b2007-QaesJlIZDifj.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "chouji akimichi": {
+      "id": 2008,
+      "full": "Chouji Akimichi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n2008-j1oCafEGZucg.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "ino yamanaka": {
+      "id": 2009,
+      "full": "Ino Yamanaka",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b2009-H7n38Ns1fr0Y.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "iruka umino": {
+      "id": 2011,
+      "full": "Iruka Umino",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b2011-WUBm7wMCA6cE.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "haku": {
+      "id": 2039,
+      "full": "Haku",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b2039-9NXBvh6H15LD.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "temari": {
+      "id": 2174,
+      "full": "Temari",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b2174-XTX0TtzkZCnO.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "kabuto yakushi": {
+      "id": 2405,
+      "full": "Kabuto Yakushi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b2405-CqbcGW2tfaMV.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "jiraiya": {
+      "id": 2423,
+      "full": "Jiraiya",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b2423-RO5MyoXSA9OL.png",
+      "alt": [
+        "Ero-Sennin (エロ仙人)",
+        "Toad Sage",
+        "Pervy Sage"
+      ],
+      "role": "SUPPORTING"
+    },
+    "orochimaru": {
+      "id": 2455,
+      "full": "Orochimaru",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n2455-V9tLMS3TIgJW.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "minato namikaze": {
+      "id": 2535,
+      "full": "Minato Namikaze",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b2535-Xq9WKNPJQEt3.png",
+      "alt": [
+        "Yondaime Hokage",
+        "Fourth Hokage",
+        "Konoha's Yellow Flash"
+      ],
+      "role": "SUPPORTING"
+    },
+    "kisame hoshigaki": {
+      "id": 2672,
+      "full": "Kisame Hoshigaki",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/2672-oxbHx8n3N7WY.jpg",
+      "alt": [
+        "Tailless Tailed Beast"
+      ],
+      "role": "SUPPORTING"
+    },
+    "pakkun": {
+      "id": 2766,
+      "full": "Pakkun",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n2766-kJfGu56HevA0.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "tsunade senju": {
+      "id": 2767,
+      "full": "Tsunade Senju",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b2767-r61Cj9v8I0wl.png",
+      "alt": [
+        "Princess Tsunade",
+        "The Legendary Sannin",
+        "Slug Princess"
+      ],
+      "role": "SUPPORTING"
+    },
+    "hidan": {
+      "id": 2792,
+      "full": "Hidan",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b2792-lyvtbiT4COp0.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "tayuya": {
+      "id": 3052,
+      "full": "Tayuya",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n3052-1V7iclO45tia.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "tobi": {
+      "id": 3149,
+      "full": "Tobi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b3149-j6cl8A9yup51.png",
+      "alt": [
+        "Kamen no Otoko (仮面の男)",
+        "Masked Man",
+        "No One",
+        "Kyuuseishu (救世主)",
+        "Saviour"
+      ],
+      "role": "SUPPORTING"
+    },
+    "zetsu": {
+      "id": 3150,
+      "full": "Zetsu",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/3150.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "karin": {
+      "id": 3151,
+      "full": "Karin",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b3151-HDcp9mHbUvS7.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "juugo": {
+      "id": 3152,
+      "full": "Juugo",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b3152-h84OgoJk7oSi.png",
+      "alt": [
+        "Juugo of the Scales"
+      ],
+      "role": "SUPPORTING"
+    },
+    "kakuzu": {
+      "id": 3178,
+      "full": "Kakuzu",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b3178-fCqs5wyV0dlJ.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "konan": {
+      "id": 3179,
+      "full": "Konan",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/3179-YVD5zJSYrnPg.jpg",
+      "alt": [
+        "Tenshi (天使)",
+        "Angel"
+      ],
+      "role": "SUPPORTING"
+    },
+    "pain": {
+      "id": 3180,
+      "full": "Pain",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b3180-ITMGBLWNBOgV.png",
+      "alt": [
+        "Kono Yo no Kyuuseishu (この世の救世主)",
+        "Saviour of this World",
+        "Yogen no Ko (予言の子)",
+        "Child of the Prophecy",
+        "Sanninme no Rikudou (三人目の六道)",
+        "Third Six Paths",
+        "Kami (神)",
+        "God"
+      ],
+      "role": "SUPPORTING"
+    },
+    "shino aburame": {
+      "id": 3428,
+      "full": "Shino Aburame",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n3428-KVeHMgx0xMqO.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "kimimaro kaguya": {
+      "id": 3438,
+      "full": "Kimimaro Kaguya",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b3438-h1fxTDdwew0h.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "kiba inuzuka": {
+      "id": 3495,
+      "full": "Kiba Inuzuka",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n3495-dtw0gHa5SOo6.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "tenten": {
+      "id": 3710,
+      "full": "Tenten",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b3710-OmDNYKi0Xfjk.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "genma shiranui": {
+      "id": 3735,
+      "full": "Genma Shiranui",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n3735-IRx14wSYNVSE.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "konohamaru sarutobi": {
+      "id": 3889,
+      "full": "Konohamaru Sarutobi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n3889-gCUewPsRY2kD.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "gamabunta": {
+      "id": 4223,
+      "full": "Gamabunta",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/4223.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "shizune": {
+      "id": 4643,
+      "full": "Shizune",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n4643-tnv8Gc4Uvvui.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "kankuro": {
+      "id": 4694,
+      "full": "Kankuro",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n4694-2brvNKpdqARU.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "kurenai yuuhi": {
+      "id": 4773,
+      "full": "Kurenai Yuuhi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n4773-mfDggINe9pMD.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "asuma sarutobi": {
+      "id": 4775,
+      "full": "Asuma Sarutobi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b4775-skviHvjIQHiE.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "akamaru": {
+      "id": 4799,
+      "full": "Akamaru",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n4799-gwSQJlSqWnST.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "kushina uzumaki": {
+      "id": 7302,
+      "full": "Kushina Uzumaki",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b7302-KQ6ddZtOkvUf.png",
+      "alt": [
+        "Red Hot-Blooded Habanero",
+        "Tomato"
+      ],
+      "role": "SUPPORTING"
+    },
+    "matsuri": {
+      "id": 7310,
+      "full": "Matsuri",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n7310-PobuG3gkxs7z.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "kurama": {
+      "id": 7407,
+      "full": "Kurama",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b7407-D8MYzhbuy8zu.jpg",
+      "alt": [
+        "Kyuubi",
+        "Nine-Tailed Demon Fox",
+        "Monster Fox",
+        "Kyuubi no Youko (九尾の妖狐)"
+      ],
+      "role": "SUPPORTING"
+    },
+    "hiruzen sarutobi": {
+      "id": 7571,
+      "full": "Hiruzen Sarutobi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n7571-fKldLuBWUtCO.png",
+      "alt": [
+        "Third",
+        "Sandaime",
+        "Hokage",
+        "The Professor",
+        "Saru"
+      ],
+      "role": "SUPPORTING"
+    },
+    "katsuyu": {
+      "id": 7608,
+      "full": "Katsuyu",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n7608-cFcxt6wyh4KF.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "hayate gekkou": {
+      "id": 7738,
+      "full": "Hayate Gekkou",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n7738-jp6LVMZ3nwXR.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "jiroubou": {
+      "id": 8495,
+      "full": "Jiroubou",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n8495-i2hdXDIiMbhn.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "kidoumaru": {
+      "id": 8497,
+      "full": "Kidoumaru",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/8497.jpg",
+      "alt": [
+        "Kidomaru"
+      ],
+      "role": "SUPPORTING"
+    },
+    "sakon": {
+      "id": 8760,
+      "full": "Sakon",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n8760-q4mTvHasjDud.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "shibi aburame": {
+      "id": 10697,
+      "full": "Shibi Aburame",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n10697-do0MOW9cKUnY.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "chouza akimichi": {
+      "id": 10699,
+      "full": "Chouza Akimichi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n10699-pNBP1SHLD3bY.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "ebisu": {
+      "id": 10791,
+      "full": "Ebisu",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n10791-YRA5IXwEQRsW.png",
+      "alt": [
+        "Closet Pervert"
+      ],
+      "role": "SUPPORTING"
+    },
+    "shukaku": {
+      "id": 11813,
+      "full": "Shukaku",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/11813.jpg",
+      "alt": [
+        "The Demon of the Sand",
+        "Ichibi"
+      ],
+      "role": "SUPPORTING"
+    },
+    "hashirama senju": {
+      "id": 12464,
+      "full": "Hashirama Senju",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n12464-fcgqkCPZoREw.png",
+      "alt": [
+        "First Hokage",
+        "Shodaime Hokage",
+        "God of Shinobi"
+      ],
+      "role": "SUPPORTING"
+    },
+    "tobirama senju": {
+      "id": 12465,
+      "full": "Tobirama Senju",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n12465-y8ByDAvzC5cA.png",
+      "alt": [
+        "Second Hokage",
+        "Nidaime Hokage"
+      ],
+      "role": "SUPPORTING"
+    },
+    "hanabi hyuuga": {
+      "id": 12563,
+      "full": "Hanabi Hyuuga",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b12563-RnwbLhX2RIAO.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "chiyo": {
+      "id": 12676,
+      "full": "Chiyo",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/12676.jpg",
+      "alt": [
+        "Baa-sama"
+      ],
+      "role": "SUPPORTING"
+    },
+    "yashamaru": {
+      "id": 13017,
+      "full": "Yashamaru",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n13017-dAkTOY5P6jMs.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "moegi kazamatsuri": {
+      "id": 13454,
+      "full": "Moegi Kazamatsuri",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n13454-1vA2oHYalYIe.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "sora": {
+      "id": 13483,
+      "full": "Sora",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/13483.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "furido": {
+      "id": 13929,
+      "full": "Furido",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/13929.jpg",
+      "alt": [
+        "Kazuma"
+      ],
+      "role": "SUPPORTING"
+    },
+    "izumo kamizuki": {
+      "id": 14032,
+      "full": "Izumo Kamizuki",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n14032-STqzPykXVWB3.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "rin nohara": {
+      "id": 14082,
+      "full": "Rin Nohara",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b14082-AAP0WNST5DRO.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "hiashi hyuuga": {
+      "id": 15039,
+      "full": "Hiashi Hyuuga",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n15039-V0DzTR1IPkBb.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "isaribi": {
+      "id": 5737,
+      "full": "Isaribi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/5737.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "aoi rokusho": {
+      "id": 6598,
+      "full": "Aoi Rokusho",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n6598-YoIKkbYKdC8R.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "raiga kurosuki": {
+      "id": 8771,
+      "full": "Raiga Kurosuki",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n8771-qyguneevk92g.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "menma": {
+      "id": 8810,
+      "full": "Menma",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n8810-eKdwxvVuAgjG.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "zaku abumi": {
+      "id": 8997,
+      "full": "Zaku Abumi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n8997-rKFqlm35weig.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "dosu kinuta": {
+      "id": 9244,
+      "full": "Dosu Kinuta",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n9244-cGlkMVmH06yg.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "kin tsuchi": {
+      "id": 9680,
+      "full": "Kin Tsuchi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n9680-aQRdgV7hWnkE.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "yoroi akado": {
+      "id": 9699,
+      "full": "Yoroi Akado",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n9699-96LTk8kvDH9B.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "seimei": {
+      "id": 10524,
+      "full": "Seimei",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n10524-UOTcnEOQCUix.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "akahoshi": {
+      "id": 10698,
+      "full": "Akahoshi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n10698-xKvrgwB2M56Z.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "akio": {
+      "id": 10700,
+      "full": "Akio",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/10700.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "yugao uzuki": {
+      "id": 15045,
+      "full": "Yugao Uzuki",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b15045-A6uaHAjb2PDT.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "inoichi yamanaka": {
+      "id": 15072,
+      "full": "Inoichi Yamanaka",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n15072-SLGhV8u4lAGp.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "hana inuzuka": {
+      "id": 15073,
+      "full": "Hana Inuzuka",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n15073-dT3K5G6US1ja.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "tsume inuzuka": {
+      "id": 15074,
+      "full": "Tsume Inuzuka",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n15074-3k7I9cFLWUjz.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "tsunami": {
+      "id": 15077,
+      "full": "Tsunami",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n15077-7Bc55n62t7t6.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    }
+  },
+  "jujutsu-kaisen": {
+    "megumi fushiguro": {
+      "id": 126635,
+      "full": "Megumi Fushiguro",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b126635-L0y3I92JSUkN.png",
+      "alt": [
+        "Sea Urchin Head"
+      ],
+      "role": "MAIN"
+    },
+    "yuuji itadori": {
+      "id": 127212,
+      "full": "Yuuji Itadori",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b127212-FVm2tD0erQ5B.png",
+      "alt": [
+        "Sukuna's Vessel",
+        "The Tiger of West Junior High"
+      ],
+      "role": "MAIN"
+    },
+    "satoru gojou": {
+      "id": 127691,
+      "full": "Satoru Gojou",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b127691-9zqh1xpIubn7.png",
+      "alt": [
+        "Satoru Gojo"
+      ],
+      "role": "MAIN"
+    },
+    "nobara kugisaki": {
+      "id": 133700,
+      "full": "Nobara Kugisaki",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b133700-f6sOO3TcgLV6.png",
+      "alt": [],
+      "role": "MAIN"
+    },
+    "suguru getou": {
+      "id": 133699,
+      "full": "Suguru Getou",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b133699-FCnXaISgazAi.png",
+      "alt": [],
+      "role": "MAIN"
+    },
+    "sukuna": {
+      "id": 133701,
+      "full": "Sukuna",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b133701-rCQuDpHr3UZL.png",
+      "alt": [
+        "Double-Faced Specter",
+        "King of Curses",
+        "Ryoumen Sukuna (両面宿儺)",
+        "Disgraced One",
+        "The Fallen"
+      ],
+      "role": "SUPPORTING"
+    },
+    "mahito": {
+      "id": 133702,
+      "full": "Mahito",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b133702-Y7JRG5vAvjIL.png",
+      "alt": [
+        "Patchface"
+      ],
+      "role": "SUPPORTING"
+    },
+    "kento nanami": {
+      "id": 133704,
+      "full": "Kento Nanami",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png",
+      "alt": [
+        "Nanamin",
+        "7:3 Sorcerer"
+      ],
+      "role": "SUPPORTING"
+    },
+    "maki zenin": {
+      "id": 134167,
+      "full": "Maki Zenin",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b134167-5TCytk45YByD.png",
+      "alt": [
+        "Miss Zenin"
+      ],
+      "role": "SUPPORTING"
+    },
+    "mai zenin": {
+      "id": 134168,
+      "full": "Mai Zenin",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b134168-FdWz5w2LqpeF.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "panda": {
+      "id": 137974,
+      "full": "Panda",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b137974-9qnK3DPrvLKh.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "aoi toudou": {
+      "id": 137975,
+      "full": "Aoi Toudou",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b137975-6TH7PiLWJaqy.png",
+      "alt": [
+        "Aoi Todo"
+      ],
+      "role": "SUPPORTING"
+    },
+    "kasumi miwa": {
+      "id": 156848,
+      "full": "Kasumi Miwa",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b156848-Rf0tuoQCNyZV.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "jougo": {
+      "id": 156991,
+      "full": "Jougo",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b156991-niYjdp9CxO4w.png",
+      "alt": [
+        "Jogo"
+      ],
+      "role": "SUPPORTING"
+    },
+    "toge inumaki": {
+      "id": 157115,
+      "full": "Toge Inumaki",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b157115-kdhRYQdVhH95.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "chousou": {
+      "id": 157116,
+      "full": "Chousou",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b157116-2jYQf3y8NeTZ.png",
+      "alt": [
+        "Choso"
+      ],
+      "role": "SUPPORTING"
+    },
+    "junpei yoshino": {
+      "id": 157214,
+      "full": "Junpei Yoshino",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b157214-ROBNoXVEXRNy.jpg",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "mei mei": {
+      "id": 157215,
+      "full": "Mei Mei",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b157215-I3TQJu8nkDwD.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "utahime iori": {
+      "id": 157864,
+      "full": "Utahime Iori",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b157864-rejVYNx0kQZr.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "takuma ino": {
+      "id": 157865,
+      "full": "Takuma Ino",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b157865-X9ENX9OzWevS.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "noritoshi  kamo": {
+      "id": 157866,
+      "full": "Noritoshi  Kamo",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b157866-UWDtYBoG71PD.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "yoshinobu gakuganji": {
+      "id": 157867,
+      "full": "Yoshinobu Gakuganji",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b157867-dHdd8ZECuzHx.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "momo nishimiya": {
+      "id": 157868,
+      "full": "Momo Nishimiya",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b157868-Ui2Wht3M6tlM.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "shouko ieiri": {
+      "id": 158154,
+      "full": "Shouko Ieiri",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b158154-UCqbiULli62P.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "hanami": {
+      "id": 172743,
+      "full": "Hanami",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b172743-4Y5SXqED6A3G.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "masamichi yaga": {
+      "id": 189237,
+      "full": "Masamichi Yaga",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b189237-ZxNJwVPL8DvW.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "kiyotaka ijichi": {
+      "id": 189238,
+      "full": "Kiyotaka Ijichi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b189238-ItSLams6lRk9.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "nagi yoshino": {
+      "id": 194056,
+      "full": "Nagi Yoshino",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b194056-yEzHVaAF9eqJ.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "wasuke itadori": {
+      "id": 194074,
+      "full": "Wasuke Itadori",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b194074-SnbrUkHIyM62.png",
+      "alt": [
+        "祖父 (Jii)",
+        "Yuji's Grandfather"
+      ],
+      "role": "SUPPORTING"
+    },
+    "yuki tsukumo": {
+      "id": 196502,
+      "full": "Yuki Tsukumo",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b196502-aBvtPFr9lGm2.png",
+      "alt": [
+        "つくもゆき"
+      ],
+      "role": "SUPPORTING"
+    },
+    "nobuko takada": {
+      "id": 197119,
+      "full": "Nobuko Takada",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b197119-Z2EBJXGTATzN.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "setsuko sasaki": {
+      "id": 200765,
+      "full": "Setsuko Sasaki",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b200765-xQLkNIRUGuQw.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "seito kaichou": {
+      "id": 200766,
+      "full": "Seito Kaichou",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b200766-nVpeCPCSCWZt.jpg",
+      "alt": [
+        "Student Council President"
+      ],
+      "role": "SUPPORTING"
+    },
+    "takeshi iguchi": {
+      "id": 200767,
+      "full": "Takeshi Iguchi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b200767-bTqPLS2Jpiqf.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "takagi": {
+      "id": 200768,
+      "full": "Takagi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b200768-fgIRyfO8ABk2.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "sotomura": {
+      "id": 206208,
+      "full": "Sotomura",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b206208-ubr8Xv0u2FxD.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "juuzou kumiya": {
+      "id": 207988,
+      "full": "Juuzou Kumiya",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b207988-GB9ZpnPA6dWQ.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "haruta shigemo": {
+      "id": 209694,
+      "full": "Haruta Shigemo",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b209694-xSS6FxN4al3l.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "shouta itou": {
+      "id": 210062,
+      "full": "Shouta Itou",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b210062-EIMZ4Nmvx6rP.png",
+      "alt": [
+        "Shota Ito"
+      ],
+      "role": "SUPPORTING"
+    },
+    "koukichi muta": {
+      "id": 210154,
+      "full": "Koukichi Muta",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b210154-nIn9DX39GFKP.jpg",
+      "alt": [
+        "Ultimate Mechamaru (究極メカ丸)"
+      ],
+      "role": "SUPPORTING"
+    },
+    "esou": {
+      "id": 210831,
+      "full": "Esou",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b210831-wsucHRbSZjbV.png",
+      "alt": [
+        "Eso"
+      ],
+      "role": "BACKGROUND"
+    },
+    "kechizu": {
+      "id": 210832,
+      "full": "Kechizu",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b210832-d1Fg0CePSU86.png",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "akari nitta": {
+      "id": 210846,
+      "full": "Akari Nitta",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b210846-XcRQ643Ne8Pb.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "takeda": {
+      "id": 222599,
+      "full": "Takeda",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b222599-0eRcr9ezGaN0.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "yuuta okkotsu": {
+      "id": 129571,
+      "full": "Yuuta Okkotsu",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b129571-GHJk7gviHOOw.jpg",
+      "alt": [
+        "Yuta Okkotsu"
+      ],
+      "role": "SUPPORTING"
+    },
+    "naobito zenin": {
+      "id": 188432,
+      "full": "Naobito Zenin",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b188432-WePQBJsEuSts.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "tsumiki fushiguro": {
+      "id": 193479,
+      "full": "Tsumiki Fushiguro",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b193479-aGNRmbU5jNwR.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "kinji hakari": {
+      "id": 197584,
+      "full": "Kinji Hakari",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b197584-fK7Jc6DLfx7e.jpg",
+      "alt": [
+        "はかり"
+      ],
+      "role": "BACKGROUND"
+    },
+    "dagon": {
+      "id": 204383,
+      "full": "Dagon",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b204383-5oTlVPpaCnM2.jpg",
+      "alt": [
+        "だごん "
+      ],
+      "role": "SUPPORTING"
+    },
+    "hijoushikina isha": {
+      "id": 210063,
+      "full": "Hijoushikina Isha",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b210063-njPW9eSCTeiJ.png",
+      "alt": [
+        "Insane Doctor"
+      ],
+      "role": "BACKGROUND"
+    },
+    "sam": {
+      "id": 210064,
+      "full": "Sam",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b210064-6vFnZA9DoZYl.png",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "uraume": {
+      "id": 210830,
+      "full": "Uraume",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b210830-rJ8LVEvLUqjE.jpg",
+      "alt": [
+        "Shiraga no Jusoshi (白髪の呪詛師)"
+      ],
+      "role": "SUPPORTING"
+    },
+    "kenjaku": {
+      "id": 289584,
+      "full": "Kenjaku",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b289584-KndGudJZm5Ik.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "yubi no kishu": {
+      "id": 306189,
+      "full": "Yubi no Kishu",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b306189-NB0cd8fgzPYg.png",
+      "alt": [
+        "Finger Bearer"
+      ],
+      "role": "BACKGROUND"
+    },
+    "taichi kanada": {
+      "id": 306276,
+      "full": "Taichi Kanada",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b306276-7TczFlh38ICp.png",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "tadashi okazaki no haha": {
+      "id": 306281,
+      "full": "Tadashi Okazaki no Haha",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b306281-2TYVdsokBkIN.png",
+      "alt": [
+        "Tadashi Okazaki's Mother"
+      ],
+      "role": "BACKGROUND"
+    },
+    "tadashi okazaki": {
+      "id": 306282,
+      "full": "Tadashi Okazaki",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b306282-5a4wVsGJF5Tz.png",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "orizuki": {
+      "id": 322042,
+      "full": "Orizuki",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b322042-NM7flYaGDuRg.png",
+      "alt": [
+        "Moon Dregs"
+      ],
+      "role": "BACKGROUND"
+    },
+    "garuda": {
+      "id": 322043,
+      "full": "Garuda",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b322043-50p14GPnxFqB.png",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "kankoshi a": {
+      "id": 327848,
+      "full": "Kankoshi A",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b327848-ppDKmMJ2MYRe.png",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "tsumiki no tomodachi": {
+      "id": 327851,
+      "full": "Tsumiki no Tomodachi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b327851-lOwe68hdmlbP.png",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "ticket urite": {
+      "id": 327852,
+      "full": "Ticket Urite",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b327852-qQzvfJYuoxpq.png",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "manager": {
+      "id": 327853,
+      "full": "Manager",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b327853-YQYinIPa4OsU.png",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "kankoshi b": {
+      "id": 327854,
+      "full": "Kankoshi B",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b327854-3seoCbIlcvLX.png",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "kodomo": {
+      "id": 327855,
+      "full": "Kodomo",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b327855-7lusC0WyZ0N5.png",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "sawamura": {
+      "id": 327856,
+      "full": "Sawamura",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b327856-vErAN3XccXlM.png",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "fujinuma imouto": {
+      "id": 327857,
+      "full": "Fujinuma Imouto",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b327857-mAfjwycUUmS9.png",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "fujinuma no yuujin": {
+      "id": 327858,
+      "full": "Fujinuma no Yuujin",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b327858-hjQDB3xT8pmh.png",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "aida": {
+      "id": 327859,
+      "full": "Aida",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b327859-AhV2YpvX52rg.png",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "fujinuma otouto": {
+      "id": 327860,
+      "full": "Fujinuma Otouto",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b327860-deFpNmaAR40T.png",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "itamae": {
+      "id": 327861,
+      "full": "Itamae",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b327861-GzHrgCElevTE.png",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "kumo no noroi": {
+      "id": 327862,
+      "full": "Kumo no Noroi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b327862-zx57slP3WdTn.png",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "honda": {
+      "id": 327863,
+      "full": "Honda",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b327863-gRFn7m3niNp1.png",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "tantei b": {
+      "id": 327864,
+      "full": "Tantei B",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b327864-V54SmtccIlV8.png",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "tv shikaisha": {
+      "id": 327865,
+      "full": "TV Shikaisha",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b327865-kSikWO13bTeJ.png",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "touji fushiguro": {
+      "id": 162722,
+      "full": "Touji Fushiguro",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b162722-btzdghBizxKS.jpg",
+      "alt": [
+        "Sorcerer Killer",
+        "Toji Fushiguro",
+        "Touji Zenin"
+      ],
+      "role": "SUPPORTING"
+    },
+    "riko amanai": {
+      "id": 203015,
+      "full": "Riko Amanai",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b203015-ez2Io1gxIQOP.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "atsuya kusakabe": {
+      "id": 205234,
+      "full": "Atsuya Kusakabe",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b205234-nrush17kFWaE.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "ui ui": {
+      "id": 217290,
+      "full": "Ui Ui",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b217290-dEovi2HxGOnV.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "mimiko hasaba": {
+      "id": 228986,
+      "full": "Mimiko Hasaba",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b228986-TXJuABOhrxRA.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "nanako hasaba": {
+      "id": 228987,
+      "full": "Nanako Hasaba",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b228987-Su63YTP33b6W.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "misato kuroi": {
+      "id": 255175,
+      "full": "Misato Kuroi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b255175-rOyuWgBm6W9M.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "larue": {
+      "id": 268297,
+      "full": "Larue",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b268297-zQ48F3PoVldl.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "yuu haibara": {
+      "id": 281725,
+      "full": "Yuu Haibara",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b281725-qJOgelbFp32B.jpg",
+      "alt": [
+        "Yu Haibara"
+      ],
+      "role": "SUPPORTING"
+    },
+    "shiu kong": {
+      "id": 303313,
+      "full": "Shiu Kong",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b303313-5ELI3hDVjNwP.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "kuchisake-onna": {
+      "id": 306192,
+      "full": "Kuchisake-Onna",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b306192-Xo6IC6JP7LwG.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "mago": {
+      "id": 306248,
+      "full": "Mago",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b306248-NefuODIxBeG1.png",
+      "alt": [
+        "Ogami no Mago (オガミの孫)",
+        "Ogami's Grandson"
+      ],
+      "role": "SUPPORTING"
+    },
+    "niji ebina": {
+      "id": 306250,
+      "full": "Niji Ebina",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b306250-JBBTTynIbY7r.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "ogami": {
+      "id": 306252,
+      "full": "Ogami",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b306252-YS8dqn5XWzgT.png",
+      "alt": [
+        "Ogami-baba (オガミ婆)"
+      ],
+      "role": "SUPPORTING"
+    },
+    "jirou awasaka": {
+      "id": 306253,
+      "full": "Jirou Awasaka",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b306253-PYrfBHAfYvsb.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "manami suda": {
+      "id": 306254,
+      "full": "Manami Suda",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b306254-rcw8cnkJlTak.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "toshihisa negi": {
+      "id": 306257,
+      "full": "Toshihisa Negi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b306257-XmeYJw91idBY.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "batta no noroi": {
+      "id": 306261,
+      "full": "Batta no Noroi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b306261-Ms5bd10bi0Ug.png",
+      "alt": [
+        "Grasshopper Curse",
+        "Ko-guy (蝗GUY)"
+      ],
+      "role": "SUPPORTING"
+    },
+    "housougami": {
+      "id": 306263,
+      "full": "Housougami",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b306263-P94VBlsmRYOb.png",
+      "alt": [
+        "Smallpox Deity",
+        "Housou-baba (疱瘡婆)"
+      ],
+      "role": "SUPPORTING"
+    },
+    "bayer": {
+      "id": 306267,
+      "full": "Bayer",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b306267-7QXgLLV4bMVB.jpg",
+      "alt": [
+        "Baieru"
+      ],
+      "role": "SUPPORTING"
+    },
+    "koukun": {
+      "id": 306268,
+      "full": "Koukun",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b306268-49iFgcDudSAC.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "shigeru sonoda": {
+      "id": 306269,
+      "full": "Shigeru Sonoda",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b306269-fPh6fXzI2WZO.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "fumi": {
+      "id": 306270,
+      "full": "Fumi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b306270-nVoUKYUK7IsP.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "saori": {
+      "id": 306279,
+      "full": "Saori",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b306279-l9Y1HkUViIUc.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "yuuko ozawa": {
+      "id": 306283,
+      "full": "Yuuko Ozawa",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b306283-w4REAX4BaEzv.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "kamibukuro jusoshi": {
+      "id": 310091,
+      "full": "Kamibukuro Jusoshi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b310091-M3rC4FXthPtm.jpg",
+      "alt": [
+        "Paper Bag Curse User"
+      ],
+      "role": "SUPPORTING"
+    },
+    "rourei jusoshi": {
+      "id": 310092,
+      "full": "Rourei Jusoshi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b310092-WElPSHDHTZDc.jpg",
+      "alt": [
+        "Elderly Curse User"
+      ],
+      "role": "SUPPORTING"
+    },
+    "kakunou jurei": {
+      "id": 311131,
+      "full": "Kakunou Jurei",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b311131-OS4dUGlxR6OH.png",
+      "alt": [
+        "Kakunou-gata Jurei (格納型呪霊)",
+        "Inventory Curse",
+        "Storage Type Curse"
+      ],
+      "role": "SUPPORTING"
+    },
+    "yatsuka no tsurugi ikaishinshou makora": {
+      "id": 319339,
+      "full": "Yatsuka no Tsurugi Ikaishinshou Makora",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b319339-B50Yn0NHXCua.png",
+      "alt": [
+        "Eight-Handled Sword Divergent Sila Divine General Mahoraga"
+      ],
+      "role": "SUPPORTING"
+    },
+    "arata nitta": {
+      "id": 320325,
+      "full": "Arata Nitta",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b320325-uGhurK5IhUeO.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "narrator": {
+      "id": 36309,
+      "full": "Narrator",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+      "alt": [
+        "Katarite (語り手)",
+        "Narration (ナレーション)",
+        "Narrador",
+        "Rozprávač",
+        "Vyprávěč",
+        "Dış ses",
+        "Narratore",
+        "Pripovjedač",
+        "Narradora",
+        "Рассказчик",
+        "Người dẫn chuyện",
+        "Tagapagsalaysay",
+        "내레이터",
+        "Narratore",
+        "Erzählperson",
+        "מספר",
+        "Narrátor",
+        "讲述人",
+        "راوي",
+        "Forteller",
+        "Berättare",
+        "Αφηγητής",
+        "Narrate"
+      ],
+      "role": "BACKGROUND"
+    },
+    "noritoshi kamo": {
+      "id": 196503,
+      "full": "Noritoshi Kamo",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b196503-wThFUu5XPqO2.png",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "tengen": {
+      "id": 217291,
+      "full": "Tengen",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b217291-zKcyXtXLZZJy.png",
+      "alt": [
+        "Star",
+        "Master Tengen"
+      ],
+      "role": "BACKGROUND"
+    },
+    "tv announcer a": {
+      "id": 310093,
+      "full": "TV Announcer A",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b310093-rpR1k9b4mwmA.jpg",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "senko": {
+      "id": 130429,
+      "full": "Senko",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b130429-jw2wdaJJGCIc.png",
+      "alt": [],
+      "role": "MAIN"
+    },
+    "shiro": {
+      "id": 130430,
+      "full": "Shiro",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b130430-qWlFrN5ja6R7.jpg",
+      "alt": [],
+      "role": "MAIN"
+    },
+    "kuroto nakano": {
+      "id": 130431,
+      "full": "Kuroto Nakano",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b130431-tJu9uCSlXwNJ.jpg",
+      "alt": [],
+      "role": "MAIN"
+    },
+    "yasuko kouenji": {
+      "id": 131028,
+      "full": "Yasuko Kouenji",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b131028-hY409HvRfMJj.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "sora": {
+      "id": 138274,
+      "full": "Sora",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b138274-InXC6YdDx5wf.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "don tanukiman": {
+      "id": 141415,
+      "full": "Don Tanukiman",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b141415-b0LvuWCT6ITQ.png",
+      "alt": [
+        "Tanukiman"
+      ],
+      "role": "SUPPORTING"
+    },
+    "little yoko": {
+      "id": 141416,
+      "full": "Little Yoko",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b141416-Xea9ztgekW0Z.png",
+      "alt": [
+        "Inari Shojo Yoko"
+      ],
+      "role": "SUPPORTING"
+    },
+    "suzu": {
+      "id": 141492,
+      "full": "Suzu",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b141492-YN3Mb5PPcUYo.png",
+      "alt": [],
+      "role": "BACKGROUND"
+    },
+    "mitaka": {
+      "id": 141531,
+      "full": "Mitaka",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b141531-6kYZmRLd2Rpu.png",
+      "alt": [],
+      "role": "BACKGROUND"
+    }
+  },
+  "one-piece": {
+    "luffy monkey": {
+      "id": 40,
+      "full": "Luffy Monkey",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b40-MNypXsxSRb1R.png",
+      "alt": [
+        "Mugiwara (麦わら)",
+        "Straw Hat",
+        "Mugi (麦)",
+        "Straw",
+        "Mugiwara no Luffy (麦わらのルフィ)",
+        "Straw Hat Luffy",
+        "Lucy",
+        "Luffyland",
+        "Mugiwara-ya",
+        "Ruffy",
+        "Monkey D. Rufy",
+        "Rufy",
+        "Rubber"
+      ],
+      "role": "MAIN"
+    },
+    "robin nico": {
+      "id": 61,
+      "full": "Robin Nico",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b61-ywXUyyocEEqt.png",
+      "alt": [
+        "Akuma no Ko (悪魔の子)",
+        "Demon Child",
+        "Devil Child",
+        "Miss All Sunday",
+        "Light of the Revolution",
+        "O-Robi",
+        "Robiland",
+        "Ms. Sunday"
+      ],
+      "role": "MAIN"
+    },
+    "zoro roronoa": {
+      "id": 62,
+      "full": "Zoro Roronoa",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b62-S7oAeA9WInjV.png",
+      "alt": [
+        "Zolo",
+        "Kaizoku Gari (海賊狩り)",
+        "Pirate Hunter",
+        "Marimo Head",
+        "Mr. Bushido",
+        "Zorojuro",
+        "Moss Head",
+        "Lorenor Zorro"
+      ],
+      "role": "MAIN"
+    },
+    "franky": {
+      "id": 64,
+      "full": "Franky",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n64-ChX6ZzHHjXqA.png",
+      "alt": [
+        "Cyborg",
+        "Bakanky",
+        "Iron Man",
+        "Fraland",
+        "Franosuke",
+        "Frankie"
+      ],
+      "role": "MAIN"
+    },
+    "sanji": {
+      "id": 305,
+      "full": "Sanji",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b305-6lisPmHtCnLT.png",
+      "alt": [
+        "Black Leg",
+        "Mr. Prince",
+        "Love Cook",
+        "Ero Cook",
+        "Curly Eyebrows",
+        "O-Soba Mask",
+        "Sangoro",
+        "Mr. Nosebleed",
+        "San-gorou"
+      ],
+      "role": "MAIN"
+    },
+    "chopper tony tony": {
+      "id": 309,
+      "full": "Chopper Tony Tony",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b309-H64NhbJ2ywIQ.jpg",
+      "alt": [
+        "Tanuki",
+        "Chopperman",
+        "Cotton Candy Lover",
+        "Racoon Dog",
+        "Chobro",
+        "Chopa-emon  (チョッパえもん)",
+        "Chopperemon"
+      ],
+      "role": "MAIN"
+    },
+    "nami": {
+      "id": 723,
+      "full": "Nami",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b723-vp5hPptgnNEC.png",
+      "alt": [
+        "Dorobou Neko (泥棒猫)",
+        "Cat Burglar",
+        "O-Nami",
+        "Namizo",
+        "Namiland"
+      ],
+      "role": "MAIN"
+    },
+    "usopp": {
+      "id": 724,
+      "full": "Usopp",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b724-GFGgI9AJQkfy.jpg",
+      "alt": [
+        "Long-Nose",
+        "Usohachi",
+        "Usoland",
+        "Sogeking",
+        "Lysop"
+      ],
+      "role": "MAIN"
+    },
+    "brook": {
+      "id": 5627,
+      "full": "Brook",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b5627-av8oD3zhKvDl.png",
+      "alt": [
+        "Dead Bones",
+        "Soul King",
+        "Satan-sama",
+        "Boneland",
+        "Honekichi",
+        "Bonekichi",
+        "The Starving Skeleton",
+        "Humming Brook"
+      ],
+      "role": "MAIN"
+    },
+    "jinbe": {
+      "id": 18938,
+      "full": "Jinbe",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b18938-yZANEfjsVhW4.png",
+      "alt": [
+        "Kaikyou no Jinbe",
+        "Knight of the Sea",
+        "First Son of the Sea",
+        "Jimbei",
+        "Jinbei",
+        "Jinbee",
+        "Boss Jinbe"
+      ],
+      "role": "MAIN"
+    },
+    "buggy": {
+      "id": 725,
+      "full": "Buggy",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n725-g04AaiaK5f9B.png",
+      "alt": [
+        "The Clown",
+        "Captain Buggy",
+        "Big Nose",
+        "Buggy the Star Clown",
+        "Buggy the Genius Jester",
+        "Baggy"
+      ],
+      "role": "SUPPORTING"
+    },
+    "vivi nefertari": {
+      "id": 726,
+      "full": "Vivi Nefertari",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b726-DqAIpscMuYYx.png",
+      "alt": [
+        "Miss Wednesday",
+        "Nefeltari Vivi"
+      ],
+      "role": "SUPPORTING"
+    },
+    "shanks": {
+      "id": 727,
+      "full": "Shanks",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b727-wUJx7M1z5xON.png",
+      "alt": [
+        "Red-Haired",
+        "Akagami",
+        "Shanks den røde"
+      ],
+      "role": "SUPPORTING"
+    },
+    "enel": {
+      "id": 1541,
+      "full": "Enel",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b1541-6c8RouunoL88.jpg",
+      "alt": [
+        "Eneru",
+        "God"
+      ],
+      "role": "SUPPORTING"
+    },
+    "dracule mihawk": {
+      "id": 2064,
+      "full": "Dracule Mihawk",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n2064-OpnF4nLi6bvL.png",
+      "alt": [
+        "Hawk-Eyes",
+        "Strongest Swordsman in the World"
+      ],
+      "role": "SUPPORTING"
+    },
+    "ace portgas": {
+      "id": 2072,
+      "full": "Ace Portgas",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b2072-Lc6jEdsueJUK.jpg",
+      "alt": [
+        "Fire Fist Ace",
+        "Portgaz D. Ace",
+        "Portgaz D. Trace"
+      ],
+      "role": "SUPPORTING"
+    },
+    "kuro": {
+      "id": 2519,
+      "full": "Kuro",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b2519-OfgRt6mP6Ae8.jpg",
+      "alt": [
+        "Kuro of a Hundred Plans",
+        "Klahadore",
+        "Captain Kuro",
+        "Kurahadol",
+        "Kuro of a Thousand Plans"
+      ],
+      "role": "SUPPORTING"
+    },
+    "bellamy": {
+      "id": 2748,
+      "full": "Bellamy",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b2748-vnCKira7yjrp.jpg",
+      "alt": [
+        "The Hyena",
+        "Deadly Bullet of Dressrosa",
+        "The Big-Time Rookie"
+      ],
+      "role": "SUPPORTING"
+    },
+    "crocodile": {
+      "id": 2749,
+      "full": "Crocodile",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b2749-e8ebEBN1SlS2.png",
+      "alt": [
+        "Mr. 0",
+        "Crocoboy",
+        "Sir Crocodile",
+        "Desert King"
+      ],
+      "role": "SUPPORTING"
+    },
+    "tashigi": {
+      "id": 2750,
+      "full": "Tashigi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b2750-j3Rf9SC37ehT.jpg",
+      "alt": [
+        "Sergeant Tashigi",
+        "Captain-chan"
+      ],
+      "role": "SUPPORTING"
+    },
+    "newgate edward": {
+      "id": 2751,
+      "full": "Newgate Edward",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b2751-NnzW0N2vCTjX.jpg",
+      "alt": [
+        "Shirohige (白ひげ)",
+        "Whitebeard",
+        "Strongest Man in the World",
+        "The Man closest to One Piece",
+        "Ward Newgate"
+      ],
+      "role": "SUPPORTING"
+    },
+    "kuzan": {
+      "id": 2752,
+      "full": "Kuzan",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b2752-0ENS2a39muDz.png",
+      "alt": [
+        "Aokiji (青雉)",
+        "The Blue Pheasant"
+      ],
+      "role": "SUPPORTING"
+    },
+    "smoker": {
+      "id": 2753,
+      "full": "Smoker",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b2753-Y2ja8Pl6PRs0.jpg",
+      "alt": [
+        "White Hunter",
+        "Smokey",
+        "Smo-san",
+        "Kemurin"
+      ],
+      "role": "SUPPORTING"
+    },
+    "doflamingo donquixote": {
+      "id": 2754,
+      "full": "Doflamingo Donquixote",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b2754-B4gGSlNYgsyh.jpg",
+      "alt": [
+        "Joker",
+        "Doffy",
+        "Heavenly Demon"
+      ],
+      "role": "SUPPORTING"
+    },
+    "teach marshall": {
+      "id": 3331,
+      "full": "Teach Marshall",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b3331-7ZJDc4BNv9Yp.jpg",
+      "alt": [
+        "Kurohige (黒ひげ)",
+        "Blackbeard"
+      ],
+      "role": "SUPPORTING"
+    },
+    "galdino": {
+      "id": 3879,
+      "full": "Galdino",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b3879-wxKVpYpup7ji.png",
+      "alt": [
+        "Mr. 3"
+      ],
+      "role": "SUPPORTING"
+    },
+    "kureha": {
+      "id": 4393,
+      "full": "Kureha",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b4393-1ljQxAeV20kB.png",
+      "alt": [
+        "Doctor Kureha (Dr.くれは)",
+        "Doctorine (ドクトリーヌ)",
+        "Majo (魔女)",
+        "Witch",
+        "Master of Isha (マスターオブ医者)",
+        "Master of Doctors"
+      ],
+      "role": "SUPPORTING"
+    },
+    "kumadori": {
+      "id": 4784,
+      "full": "Kumadori",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b4784-N2iuEYijo01x.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "bentham": {
+      "id": 4875,
+      "full": "Bentham",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n4875-Ga2TVjP70R6r.png",
+      "alt": [
+        "Mr. 2",
+        "Bon Clay (ボンクーレイ)",
+        "Bon-chan"
+      ],
+      "role": "SUPPORTING"
+    },
+    "ben beckman": {
+      "id": 4882,
+      "full": "Ben Beckman",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b4882-2zsLPjqUeOJ4.png",
+      "alt": [
+        "Benn Beckman"
+      ],
+      "role": "SUPPORTING"
+    },
+    "roger gold": {
+      "id": 4883,
+      "full": "Roger Gold",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b4883-0t76xH00sehO.png",
+      "alt": [
+        "Kaizoku Ou (海賊王)",
+        "King of the Pirates"
+      ],
+      "role": "SUPPORTING"
+    },
+    "dragon": {
+      "id": 4884,
+      "full": "Dragon",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b4884-iBn6FzQ2ESLC.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "lucky roux": {
+      "id": 4885,
+      "full": "Lucky Roux",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b4885-wabOwg3GFpfK.jpg",
+      "alt": [
+        "Lucky Roo"
+      ],
+      "role": "SUPPORTING"
+    },
+    "jango": {
+      "id": 4886,
+      "full": "Jango",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b4886-QwqBEUBwKgIr.png",
+      "alt": [
+        "The Hypnotist",
+        "Jango Santohei",
+        "Django"
+      ],
+      "role": "SUPPORTING"
+    },
+    "arlong": {
+      "id": 4887,
+      "full": "Arlong",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b4887-hMOqSSpR5jFc.jpg",
+      "alt": [
+        "Arlong the Saw"
+      ],
+      "role": "SUPPORTING"
+    },
+    "nojiko": {
+      "id": 4888,
+      "full": "Nojiko",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b4888-ZVkyNRqxa3it.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "hatchan": {
+      "id": 4889,
+      "full": "Hatchan",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/4889.jpg",
+      "alt": [
+        "Hachi (ハチ)"
+      ],
+      "role": "SUPPORTING"
+    },
+    "bellemere": {
+      "id": 4890,
+      "full": "Bellemere",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/4890.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "chew": {
+      "id": 4891,
+      "full": "Chew",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b4891-y8cWYU2t7tcu.png",
+      "alt": [
+        "Choo"
+      ],
+      "role": "SUPPORTING"
+    },
+    "genzo": {
+      "id": 4892,
+      "full": "Genzo",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b4892-bM6VwMu2rfxC.jpg",
+      "alt": [
+        "Gen-san"
+      ],
+      "role": "SUPPORTING"
+    },
+    "johnny": {
+      "id": 4893,
+      "full": "Johnny",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/4893.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "yosaku": {
+      "id": 4894,
+      "full": "Yosaku",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/4894.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "kuroobi": {
+      "id": 4895,
+      "full": "Kuroobi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b4895-REV7XgeR7nRd.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "mohji": {
+      "id": 4896,
+      "full": "Mohji",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/4896.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "cabaji": {
+      "id": 4897,
+      "full": "Cabaji",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b4897-3dFXuF1vcLJQ.jpg",
+      "alt": [
+        "Kyokugei no Cabaji (曲芸のカバジ)",
+        "Cabaji the Acrobat"
+      ],
+      "role": "SUPPORTING"
+    },
+    "richie": {
+      "id": 4898,
+      "full": "Richie",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/4898.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "alvida": {
+      "id": 4899,
+      "full": "Alvida",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b4899-bFPCVRWyqMtO.jpg",
+      "alt": [
+        "Iron Mace"
+      ],
+      "role": "SUPPORTING"
+    },
+    "apis": {
+      "id": 5412,
+      "full": "Apis",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/5412.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "laboon": {
+      "id": 5413,
+      "full": "Laboon",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b5413-4j9gPyHIiYim.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "mr. 9": {
+      "id": 5414,
+      "full": "Mr. 9",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b5414-IfHwRSA9UURj.jpg",
+      "alt": [
+        "ミスター・ナイン"
+      ],
+      "role": "SUPPORTING"
+    },
+    "igaram": {
+      "id": 5415,
+      "full": "Igaram",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b5415-pIQGogXQgOLf.png",
+      "alt": [
+        "Mr. 8",
+        "Igarappoi"
+      ],
+      "role": "SUPPORTING"
+    },
+    "miss monday": {
+      "id": 5416,
+      "full": "Miss Monday",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b5416-XTIxwcMXy0Nj.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "mikita": {
+      "id": 5417,
+      "full": "Mikita",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b5417-Zv0W82y0lrae.png",
+      "alt": [
+        "Miss Valentine (ミス・バレンタイン)",
+        "Courier",
+        "Hakobiya Mikita (運び屋ミキータ)"
+      ],
+      "role": "SUPPORTING"
+    },
+    "gem": {
+      "id": 5418,
+      "full": "Gem",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b5418-5HdgBfpTAWRm.png",
+      "alt": [
+        "ミスター・ファイブ",
+        "国境のジェム",
+        "Mr. 5",
+        "Gem of the Border"
+      ],
+      "role": "SUPPORTING"
+    },
+    "marianne": {
+      "id": 5419,
+      "full": "Marianne",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b5419-08ykKbUsGNCf.jpg",
+      "alt": [
+        "ミス・ゴールデンウィーク",
+        "自由の旗手マリアンヌ",
+        "Miss Goldenweek",
+        "Flag-Bearer of Freedom",
+        "Miss April Fools Day"
+      ],
+      "role": "SUPPORTING"
+    },
+    "dorry": {
+      "id": 5420,
+      "full": "Dorry",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/5420.jpg",
+      "alt": [
+        "Ao Oni (青鬼)",
+        "Blue Ogre"
+      ],
+      "role": "SUPPORTING"
+    },
+    "brogy": {
+      "id": 5421,
+      "full": "Brogy",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/5421.jpg",
+      "alt": [
+        "赤鬼",
+        "Red Ogre"
+      ],
+      "role": "SUPPORTING"
+    },
+    "wapol": {
+      "id": 5422,
+      "full": "Wapol",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b5422-QfzPleyyng7n.jpg",
+      "alt": [
+        "Tin-Plate"
+      ],
+      "role": "SUPPORTING"
+    },
+    "dalton": {
+      "id": 5423,
+      "full": "Dalton",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b5423-n38TDrDIqKs6.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "lucci rob": {
+      "id": 5677,
+      "full": "Lucci Rob",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b5677-ZrZunVe7Kq5P.png",
+      "alt": [
+        "Pigeon Guy"
+      ],
+      "role": "SUPPORTING"
+    },
+    "iceburg": {
+      "id": 5750,
+      "full": "Iceburg",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b5750-Li0UhhHyfGtL.jpg",
+      "alt": [
+        "Iceberg",
+        "Ice for brains"
+      ],
+      "role": "SUPPORTING"
+    },
+    "kalifa": {
+      "id": 5910,
+      "full": "Kalifa",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b5910-Ec5mCnChAdBT.jpg",
+      "alt": [
+        "Califa"
+      ],
+      "role": "SUPPORTING"
+    },
+    "kaku": {
+      "id": 6183,
+      "full": "Kaku",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b6183-gmHoUzp8Eh8E.png",
+      "alt": [
+        "Yamakaze (山風)",
+        "The Mountain Wind"
+      ],
+      "role": "SUPPORTING"
+    },
+    "chimney": {
+      "id": 6496,
+      "full": "Chimney",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b6496-WBa6DFzRcZSe.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "spandam": {
+      "id": 6551,
+      "full": "Spandam",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b6551-szpvKXmtWqGX.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "pandaman": {
+      "id": 6865,
+      "full": "Pandaman",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b6865-TEBUW6wv13NH.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "don achino": {
+      "id": 7400,
+      "full": "Don Achino",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/7400.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "kuma bartholomew": {
+      "id": 7453,
+      "full": "Kuma Bartholomew",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b7453-c3MArieFBs9w.png",
+      "alt": [
+        "PX-0",
+        "Tyrant"
+      ],
+      "role": "SUPPORTING"
+    },
+    "moria gecko": {
+      "id": 7454,
+      "full": "Moria Gecko",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b7454-WN77wNFvGtp8.png",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "doctor hogback": {
+      "id": 7455,
+      "full": "Doctor Hogback",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/7455.jpg",
+      "alt": [],
+      "role": "SUPPORTING"
+    },
+    "perona": {
+      "id": 7467,
+      "full": "Perona",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b7467-0xxnaxQGfhkY.jpg",
+      "alt": [
+        "Ghost Princess"
+      ],
+      "role": "SUPPORTING"
+    },
+    "wiper": {
+      "id": 7644,
+      "full": "Wiper",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b7644-4sCeX6T4WtTO.jpg",
+      "alt": [
+        "Wyper",
+        "The Berserker"
+      ],
+      "role": "SUPPORTING"
+    },
+    "garp": {
+      "id": 8064,
+      "full": "Garp",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b8064-dPltKaZ8RAsj.jpg",
+      "alt": [
+        "The Fist",
+        "Hero of the Marines",
+        "Garp the Fist"
+      ],
+      "role": "SUPPORTING"
+    },
+    "paulie": {
+      "id": 8503,
+      "full": "Paulie",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b8503-UxUPQK83zl5L.png",
+      "alt": [
+        "Pauly"
+      ],
+      "role": "SUPPORTING"
+    },
+    "pell": {
+      "id": 9098,
+      "full": "Pell",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b9098-gsUJ1Zx5tYnA.png",
+      "alt": [
+        "Peregrine Falcon",
+        "Peru"
+      ],
+      "role": "SUPPORTING"
+    }
+  }
+}

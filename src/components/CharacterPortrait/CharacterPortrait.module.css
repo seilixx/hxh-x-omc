@@ -1,0 +1,307 @@
+.wrap {
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+  aspect-ratio: 1;
+  max-height: min(400px, calc(100vh - 170px));
+  background: #020b07;
+  border: 1px solid rgba(66, 211, 146, 0.35);
+  border-radius: 14px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.8), 0 0 25px rgba(66, 211, 146, 0.12);
+}
+
+/* Tactical HUD corner brackets */
+.wrap::before, .wrap::after {
+  content: '';
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  pointer-events: none;
+  z-index: 15;
+  border: 2px solid var(--accent);
+}
+
+.wrap::before {
+  top: 8px;
+  left: 8px;
+  border-right: none;
+  border-bottom: none;
+}
+
+.wrap::after {
+  bottom: 8px;
+  right: 8px;
+  border-left: none;
+  border-top: none;
+}
+
+.portrait {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  border-radius: 12px;
+  transition: box-shadow 0.5s ease;
+}
+
+.correctGlow {
+  box-shadow: inset 0 0 80px 20px rgba(74, 222, 128, 0.35);
+}
+
+.img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 20%;
+  transition: filter 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  display: block;
+}
+
+.darkGradient {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(2, 11, 7, 0.15) 0%,
+    transparent 50%,
+    rgba(2, 11, 7, 0.9) 100%
+  );
+  pointer-events: none;
+}
+
+.associationStamp {
+  position: absolute;
+  top: 16px;
+  left: 20px;
+  pointer-events: none;
+  z-index: 10;
+}
+
+.stampText {
+  font-family: var(--font-ui);
+  font-size: 9px;
+  letter-spacing: 4px;
+  color: rgba(255, 255, 255, 0.35);
+  text-transform: uppercase;
+}
+
+/* ── Fallback Silhouette Card ────────────────────────── */
+.silhouetteCard {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background: radial-gradient(circle at center, #071F15 0%, #020B07 80%);
+  padding: 40px;
+  transition: filter 0.6s ease;
+}
+
+.silhouetteAura {
+  position: absolute;
+  width: 240px;
+  height: 240px;
+  border-radius: 50%;
+  background: var(--glow);
+  filter: blur(50px);
+  pointer-events: none;
+  animation: pulse-aura 3s ease-in-out infinite alternate;
+}
+
+@keyframes pulse-aura {
+  0% { transform: scale(0.9); opacity: 0.4; }
+  100% { transform: scale(1.15); opacity: 0.8; }
+}
+
+.cardWatermark {
+  position: absolute;
+  color: rgba(74, 222, 128, 0.05);
+  pointer-events: none;
+}
+
+.avatarShape {
+  position: relative;
+  width: 130px;
+  height: 170px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 24px;
+  z-index: 2;
+}
+
+.avatarHead {
+  width: 64px;
+  height: 74px;
+  border-radius: 40px 40px 32px 32px;
+  background: linear-gradient(180deg, #123824 0%, #081d13 100%);
+  border: 1.5px solid rgba(74, 222, 128, 0.4);
+  box-shadow: 0 0 20px var(--glow);
+}
+
+.avatarShoulders {
+  width: 120px;
+  height: 60px;
+  border-radius: 60px 60px 0 0;
+  background: linear-gradient(180deg, #102d1d 0%, #05140d 100%);
+  border: 1.5px solid rgba(74, 222, 128, 0.3);
+  margin-top: -12px;
+}
+
+.avatarInitials {
+  position: absolute;
+  top: 18px;
+  font-family: var(--font-display);
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: var(--accent);
+  text-shadow: 0 0 10px var(--accent);
+}
+
+.silhouetteMeta {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  z-index: 2;
+  text-align: center;
+}
+
+.candidateId {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 3px;
+  color: var(--accent);
+}
+
+.candidateArc {
+  font-family: var(--font-ui);
+  font-size: 11px;
+  letter-spacing: 2px;
+  color: var(--text-secondary);
+}
+
+.candidateNen {
+  font-family: var(--font-ui);
+  font-size: 10px;
+  letter-spacing: 2px;
+  color: var(--text-muted);
+}
+
+/* ── Reveal Overlays ─────────────────────────────────── */
+.correctOverlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 32px 24px 24px;
+  background: linear-gradient(to top, rgba(2, 11, 7, 0.98) 0%, rgba(2, 11, 7, 0.7) 60%, transparent 100%);
+  text-align: center;
+  z-index: 20;
+}
+
+.correctTag {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-ui);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 4px;
+  color: #4ADE80;
+  background: rgba(74, 222, 128, 0.15);
+  border: 1px solid rgba(74, 222, 128, 0.4);
+  padding: 4px 12px;
+  border-radius: 2px;
+  margin-bottom: 8px;
+}
+
+.correctName {
+  font-family: var(--font-display);
+  font-size: clamp(22px, 3.5vw, 36px);
+  font-weight: 700;
+  color: #FFFFFF;
+  letter-spacing: 4px;
+  text-shadow: 0 0 25px rgba(74, 222, 128, 0.6);
+}
+
+.timeoutOverlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(2, 11, 7, 0.75);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  padding-bottom: 32px;
+  gap: 8px;
+  z-index: 20;
+}
+
+.timeoutTag {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 5px;
+  color: #EF4444;
+  background: rgba(239, 68, 68, 0.15);
+  border: 1px solid rgba(239, 68, 68, 0.4);
+  padding: 4px 12px;
+  border-radius: 2px;
+}
+
+.timeoutName {
+  font-family: var(--font-display);
+  font-size: clamp(20px, 3vw, 32px);
+  font-weight: 700;
+  color: #FFFFFF;
+  letter-spacing: 4px;
+}
+
+/* Difficulty Badge */
+.diffBadge {
+  position: absolute;
+  top: 14px;
+  right: 18px;
+  font-family: var(--font-ui);
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  padding: 3px 8px;
+  border-radius: 2px;
+  z-index: 10;
+}
+
+.diffBadge[data-diff='easy'] {
+  color: #4ADE80;
+  background: rgba(74, 222, 128, 0.12);
+  border: 1px solid rgba(74, 222, 128, 0.3);
+}
+
+.diffBadge[data-diff='medium'] {
+  color: #FACC15;
+  background: rgba(250, 204, 21, 0.12);
+  border: 1px solid rgba(250, 204, 21, 0.3);
+}
+
+.diffBadge[data-diff='hard'] {
+  color: #F97316;
+  background: rgba(249, 115, 22, 0.12);
+  border: 1px solid rgba(249, 115, 22, 0.3);
+}
+
+.diffBadge[data-diff='expert'] {
+  color: #EF4444;
+  background: rgba(239, 68, 68, 0.12);
+  border: 1px solid rgba(239, 68, 68, 0.3);
+}

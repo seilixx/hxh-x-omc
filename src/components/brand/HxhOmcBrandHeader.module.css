@@ -1,0 +1,228 @@
+.brandContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  z-index: 10;
+  padding: 1.25rem 1rem 3rem;
+}
+
+.logoRow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2.25rem;
+  position: relative;
+}
+
+/* Hunter Logo & Hanging Spiders */
+.hunterLogoWrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hunterLogo {
+  height: 82px;
+  width: auto;
+  max-width: 240px;
+  display: block;
+  filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.45)) drop-shadow(0 0 25px rgba(66, 211, 146, 0.35));
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+.hunterLogoWrapper:hover .hunterLogo {
+  filter: drop-shadow(0 0 15px rgba(255, 255, 255, 0.7)) drop-shadow(0 0 35px rgba(66, 211, 146, 0.6));
+}
+
+/* Vertical Thin White Divider */
+.divider {
+  width: 2px;
+  height: 72px;
+  background: rgba(255, 255, 255, 0.95);
+  box-shadow: 0 0 8px rgba(255, 255, 255, 0.7), 0 0 18px rgba(66, 211, 146, 0.5);
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+
+/* OMC Logo */
+.omcLogoWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.omcLogo {
+  height: 82px;
+  width: auto;
+  max-width: 140px;
+  display: block;
+  filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.45)) drop-shadow(0 0 25px rgba(66, 211, 146, 0.35));
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+.omcLogoWrapper:hover .omcLogo {
+  filter: drop-shadow(0 0 15px rgba(255, 255, 255, 0.7)) drop-shadow(0 0 35px rgba(66, 211, 146, 0.6));
+}
+
+/* Spiders dangling below Hunter Logo */
+.spidersContainer {
+  position: absolute;
+  top: 96%;
+  left: 0;
+  width: 100%;
+  pointer-events: none;
+}
+
+.hangingSpider {
+  position: absolute;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transform-origin: top center;
+}
+
+.spiderLeft {
+  left: 20%;
+  animation: spiderSwayLeft 5.2s ease-in-out infinite alternate;
+}
+
+.spiderRight {
+  left: 58%;
+  animation: spiderSwayRight 4.4s ease-in-out infinite alternate;
+}
+
+.silkThread {
+  width: 1.5px;
+  background: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.95),
+    rgba(255, 255, 255, 0.7) 80%,
+    rgba(66, 211, 146, 0.9) 100%
+  );
+  box-shadow: 0 0 4px rgba(255, 255, 255, 0.8), 0 0 8px rgba(66, 211, 146, 0.6);
+}
+
+.spiderSvg {
+  display: block;
+  transform-origin: top center;
+  filter: drop-shadow(0 0 8px rgba(255, 255, 255, 0.9)) drop-shadow(0 0 18px rgba(66, 211, 146, 0.7));
+}
+
+@keyframes spiderSwayLeft {
+  0% {
+    transform: rotate(-3.5deg);
+  }
+  50% {
+    transform: rotate(2deg);
+  }
+  100% {
+    transform: rotate(-3.5deg);
+  }
+}
+
+@keyframes spiderSwayRight {
+  0% {
+    transform: rotate(3deg);
+  }
+  50% {
+    transform: rotate(-2.5deg);
+  }
+  100% {
+    transform: rotate(3deg);
+  }
+}
+
+/* Subtitle Badge */
+.subtitleBadge {
+  margin-top: 1.75rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.45rem 1.25rem;
+  background: rgba(4, 28, 20, 0.75);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(66, 211, 146, 0.35);
+  border-radius: 999px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5), 0 0 15px rgba(66, 211, 146, 0.2);
+}
+
+.subtitleText {
+  font-family: var(--font-cinzel), 'Cinzel', serif;
+  font-size: 0.85rem;
+  letter-spacing: 0.18em;
+  font-weight: 700;
+  color: #e6f9f0;
+  text-transform: uppercase;
+}
+
+.badgeKatakana {
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  color: #42d392;
+  opacity: 0.85;
+}
+
+/* Size Variants */
+.large .hunterLogo {
+  height: 105px;
+  max-width: 320px;
+}
+.large .omcLogo {
+  height: 105px;
+  max-width: 170px;
+}
+.large .divider {
+  height: 95px;
+  width: 2.5px;
+}
+.large .spiderLeft .silkThread {
+  height: 110px !important;
+}
+.large .spiderRight .silkThread {
+  height: 65px !important;
+}
+
+.compact {
+  padding: 0.5rem 0 1.5rem;
+}
+.compact .hunterLogo {
+  height: 52px;
+  max-width: 160px;
+}
+.compact .omcLogo {
+  height: 52px;
+  max-width: 90px;
+}
+.compact .divider {
+  height: 46px;
+  width: 1.5px;
+}
+.compact .spiderLeft .silkThread {
+  height: 45px !important;
+}
+.compact .spiderRight .silkThread {
+  height: 25px !important;
+}
+
+@media (max-width: 640px) {
+  .logoRow {
+    gap: 1.25rem;
+  }
+  .hunterLogo {
+    height: 58px;
+  }
+  .omcLogo {
+    height: 58px;
+  }
+  .divider {
+    height: 50px;
+  }
+  .subtitleBadge {
+    font-size: 0.72rem;
+    padding: 0.35rem 0.85rem;
+  }
+}

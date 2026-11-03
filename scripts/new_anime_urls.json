@@ -1,0 +1,248 @@
+{
+  "naruto": {
+    "naruto-031": {
+      "name": "Tobirama Senju",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n12465-y8ByDAvzC5cA.png",
+      "term": "Tobirama Senju"
+    },
+    "naruto-032": {
+      "name": "Hiruzen Sarutobi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n7571-fKldLuBWUtCO.png",
+      "term": "Hiruzen Sarutobi"
+    },
+    "naruto-034": {
+      "name": "Hidan",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b2792-lyvtbiT4COp0.jpg",
+      "term": "Hidan"
+    },
+    "naruto-035": {
+      "name": "Kakuzu",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b3178-fCqs5wyV0dlJ.jpg",
+      "term": "Kakuzu"
+    },
+    "naruto-036": {
+      "name": "Konohamaru Sarutobi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n3889-gCUewPsRY2kD.png",
+      "term": "Konohamaru Sarutobi"
+    },
+    "naruto-037": {
+      "name": "Shino Aburame",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n3428-KVeHMgx0xMqO.png",
+      "term": "Shino Aburame"
+    },
+    "naruto-038": {
+      "name": "Kiba Inuzuka",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n3495-dtw0gHa5SOo6.png",
+      "term": "Kiba Inuzuka"
+    },
+    "naruto-039": {
+      "name": "Chouji Akimichi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n2008-j1oCafEGZucg.png",
+      "term": "Chouji Akimichi"
+    },
+    "naruto-040": {
+      "name": "Ino Yamanaka",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b2009-H7n38Ns1fr0Y.jpg",
+      "term": "Ino Yamanaka"
+    },
+    "naruto-041": {
+      "name": "Asuma Sarutobi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b4775-skviHvjIQHiE.png",
+      "term": "Asuma Sarutobi"
+    },
+    "naruto-042": {
+      "name": "Kurenai Yuuhi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/n4773-mfDggINe9pMD.png",
+      "term": "Kurenai Yuuhi"
+    },
+    "naruto-043": {
+      "name": "Kimimaro Kaguya",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b3438-h1fxTDdwew0h.png",
+      "term": "Kimimaro"
+    },
+    "naruto-044": {
+      "name": "Kabuto Yakushi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b2405-CqbcGW2tfaMV.png",
+      "term": "Kabuto Yakushi"
+    },
+    "naruto-045": {
+      "name": "Mei Terumi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b23478-U7n8YUe2gFDW.png",
+      "term": "Mei Terumi"
+    },
+    "naruto-046": {
+      "name": "Oonoki",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b23475-OXJU3W3rmDQZ.png",
+      "term": "Oonoki"
+    },
+    "naruto-047": {
+      "name": "Satoru Gojou",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b127691-9zqh1xpIubn7.png",
+      "term": "A"
+    },
+    "naruto-048": {
+      "name": "Mifune",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b12982-oqu0ldRYGmCZ.png",
+      "term": "Mifune"
+    },
+    "naruto-049": {
+      "name": "Hagoromo Ootsutsuki",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b57883-TrjcL1LU7qnj.png",
+      "term": "Hagoromo Ootsutsuki"
+    },
+    "naruto-050": {
+      "name": "Kaguya Ootsutsuki",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b126069-CYxn8C4AHwiD.png",
+      "term": "Kaguya Ootsutsuki"
+    }
+  },
+  "jjk": {
+    "jjk-026": {
+      "name": "Yuki Tsukumo",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b196502-aBvtPFr9lGm2.png",
+      "term": "Yuki Tsukumo"
+    },
+    "jjk-027": {
+      "name": "Hajime Kashimo",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b248143-w5ZilMdkvpbe.jpg",
+      "term": "Hajime Kashimo"
+    },
+    "jjk-028": {
+      "name": "Hiromi Higuruma",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b248818-G9R6TqqElpvG.png",
+      "term": "Hiromi Higuruma"
+    },
+    "jjk-029": {
+      "name": "Kinji Hakari",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b197584-fK7Jc6DLfx7e.jpg",
+      "term": "Kinji Hakari"
+    },
+    "jjk-030": {
+      "name": "Kenjaku",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b289584-KndGudJZm5Ik.jpg",
+      "term": "Kenjaku"
+    },
+    "jjk-031": {
+      "name": "Naoya Zenin",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b208204-1CoWbBOC2Jqr.jpg",
+      "term": "Naoya Zenin"
+    },
+    "jjk-032": {
+      "name": "Atsuya Kusakabe",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b205234-nrush17kFWaE.jpg",
+      "term": "Atsuya Kusakabe"
+    },
+    "jjk-033": {
+      "name": "Utahime Iori",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b157864-rejVYNx0kQZr.jpg",
+      "term": "Utahime Iori"
+    },
+    "jjk-034": {
+      "name": "Yoshinobu Gakuganji",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b157867-dHdd8ZECuzHx.png",
+      "term": "Yoshinobu Gakuganji"
+    },
+    "jjk-035": {
+      "name": "Momo Nishimiya",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b157868-Ui2Wht3M6tlM.png",
+      "term": "Momo Nishimiya"
+    },
+    "jjk-047": {
+      "name": "Rika Orimoto",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b208533-EXiA1hR5l585.jpg",
+      "term": "Rika Orimoto"
+    },
+    "jjk-048": {
+      "name": "Shouko Ieiri",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b158154-UCqbiULli62P.png",
+      "term": "Shouko Ieiri"
+    },
+    "jjk-049": {
+      "name": "Kiyotaka Ijichi",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b189238-ItSLams6lRk9.png",
+      "term": "Kiyotaka Ijichi"
+    },
+    "jjk-050": {
+      "name": "Akari Nitta",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b210846-XcRQ643Ne8Pb.png",
+      "term": "Akari Nitta"
+    }
+  },
+  "op": {
+    "op-031": {
+      "name": "Kid Eustass",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b14989-uykLqnBTdAc2.jpg",
+      "term": "Eustass Kid"
+    },
+    "op-033": {
+      "name": "Jewelry Bonney",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b20295-LqpG4Y3HkKxu.png",
+      "term": "Jewelry Bonney"
+    },
+    "op-034": {
+      "name": "Basil Hawkins",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b20293-37ifsaMz7Kgx.png",
+      "term": "Basil Hawkins"
+    },
+    "op-035": {
+      "name": "Kuma Bartholomew",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b7453-c3MArieFBs9w.png",
+      "term": "Bartholomew Kuma"
+    },
+    "op-036": {
+      "name": "Moria Gecko",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b7454-WN77wNFvGtp8.png",
+      "term": "Gecko Moria"
+    },
+    "op-037": {
+      "name": "Enel",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b1541-6c8RouunoL88.jpg",
+      "term": "Enel"
+    },
+    "op-038": {
+      "name": "Lucci Rob",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b5677-ZrZunVe7Kq5P.png",
+      "term": "Rob Lucci"
+    },
+    "op-039": {
+      "name": "Kaku",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b6183-gmHoUzp8Eh8E.png",
+      "term": "Kaku"
+    },
+    "op-040": {
+      "name": "Borsalino",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b21093-Pc4kOjUn3ZkZ.png",
+      "term": "Borsalino"
+    },
+    "op-041": {
+      "name": "Isshou",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b82259-NFdvvcSHup7Z.jpg",
+      "term": "Issho"
+    },
+    "op-042": {
+      "name": "Sengoku",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b13018-kJjHsIg6Zw7Q.png",
+      "term": "Sengoku"
+    },
+    "op-044": {
+      "name": "Oden Kouzuki",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b149797-UmdR7up3kgoK.png",
+      "term": "Kozuki Oden"
+    },
+    "op-045": {
+      "name": "Momonosuke Kouzuki",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b126184-QZ8JNecT5wQc.png",
+      "term": "Kozuki Momonosuke"
+    },
+    "op-047": {
+      "name": "Perona",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b7467-0xxnaxQGfhkY.jpg",
+      "term": "Perona"
+    },
+    "op-048": {
+      "name": "Caesar Clown",
+      "img": "https://s4.anilist.co/file/anilistcdn/character/large/b61603-x8RTOk7DIFIZ.jpg",
+      "term": "Caesar Clown"
+    }
+  }
+}

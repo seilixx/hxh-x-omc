@@ -1,0 +1,179 @@
+.overlay {
+  position: fixed;
+  inset: 0;
+  background: #010806;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  overflow: hidden;
+}
+
+.webBg {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+}
+
+.webSvg {
+  width: min(700px, 90vw);
+  height: min(700px, 90vw);
+  opacity: 0.7;
+  animation: spin-slow 40s linear infinite;
+}
+
+@keyframes spin-slow {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.logosRow {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  margin-bottom: 32px;
+}
+
+.logoBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.hxhText {
+  font-family: 'Cinzel', serif;
+  font-size: clamp(16px, 3vw, 28px);
+  font-weight: 900;
+  letter-spacing: 8px;
+  color: #ffffff;
+  text-shadow: 0 0 30px rgba(74, 222, 128, 0.5);
+}
+
+.hxhX {
+  font-family: 'Cinzel', serif;
+  font-size: clamp(14px, 2.5vw, 22px);
+  color: #4ADE80;
+  margin: 0 6px;
+  text-shadow: 0 0 20px rgba(74, 222, 128, 0.8);
+}
+
+.hxhLogoImg {
+  height: clamp(38px, 6vw, 62px);
+  width: auto;
+  object-fit: contain;
+  filter: drop-shadow(0 0 16px rgba(74, 222, 128, 0.3));
+}
+
+.omcLogoImg {
+  height: clamp(40px, 6vw, 64px);
+  width: auto;
+  object-fit: contain;
+  filter: drop-shadow(0 0 16px rgba(74, 222, 128, 0.3));
+}
+
+.hxhFallback, .omcLogoFallback {
+  display: flex;
+  align-items: center;
+}
+
+.vertDivider {
+  width: 1px;
+  height: 80px;
+  background: linear-gradient(to bottom, transparent, rgba(74, 222, 128, 0.4), transparent);
+}
+
+.omcLogo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
+.omcLetters {
+  font-family: 'Orbitron', monospace;
+  font-size: clamp(28px, 5vw, 52px);
+  font-weight: 900;
+  color: #ffffff;
+  letter-spacing: 6px;
+  text-shadow: 0 0 30px rgba(74, 222, 128, 0.4);
+}
+
+.omcSub {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: clamp(9px, 1.5vw, 11px);
+  letter-spacing: 4px;
+  color: #A5B0A9;
+  text-transform: uppercase;
+}
+
+.textBlock {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+
+.presents {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: clamp(10px, 1.8vw, 13px);
+  letter-spacing: 6px;
+  color: #A5B0A9;
+  text-transform: uppercase;
+}
+
+.title {
+  font-family: 'Cinzel', serif;
+  font-size: clamp(20px, 4vw, 38px);
+  font-weight: 900;
+  letter-spacing: 6px;
+  color: #ffffff;
+  text-shadow: 0 0 40px rgba(74, 222, 128, 0.3);
+}
+
+.sub {
+  font-family: 'Orbitron', monospace;
+  font-size: clamp(12px, 2vw, 16px);
+  letter-spacing: 10px;
+  color: #4ADE80;
+  text-shadow: 0 0 20px rgba(74, 222, 128, 0.6);
+  margin-top: 4px;
+}
+
+.barWrap {
+  position: absolute;
+  bottom: 80px;
+  width: min(320px, 60vw);
+  height: 2px;
+  background: rgba(74, 222, 128, 0.12);
+  border-radius: 1px;
+  overflow: hidden;
+}
+
+.bar {
+  height: 100%;
+  background: linear-gradient(to right, #22C55E, #4ADE80);
+  transform-origin: left;
+  box-shadow: 0 0 12px rgba(74, 222, 128, 0.6);
+}
+
+.skip {
+  position: absolute;
+  bottom: 32px;
+  right: 32px;
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 12px;
+  letter-spacing: 3px;
+  color: #5A6B62;
+  cursor: pointer;
+  background: none;
+  border: none;
+  transition: color 0.2s;
+}
+.skip:hover {
+  color: #A5B0A9;
+}

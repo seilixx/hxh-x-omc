@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" fill="none">
+  <defs>
+    <radialGradient id="spiderGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#4ADE80" stop-opacity="0.12" />
+      <stop offset="60%" stop-color="#071F15" stop-opacity="0.04" />
+      <stop offset="100%" stop-color="#020B07" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="1000" height="1000" fill="url(#spiderGlow)" />
+  <g stroke="rgba(74, 222, 128, 0.07)" stroke-width="1.2">
+    <!-- Web Rings -->
+    <polygon points="500,430 549,465 531,522 469,522 451,465" fill="none" />
+    <polygon points="500,370 598,441 561,555 439,555 402,441" fill="none" />
+    <polygon points="500,310 648,417 591,588 409,588 352,417" fill="none" />
+    <polygon points="500,250 697,393 622,621 378,621 303,393" fill="none" />
+    <polygon points="500,190 746,369 652,654 348,654 254,369" fill="none" />
+    <polygon points="500,130 795,345 682,687 318,687 205,345" fill="none" />
+    <polygon points="500,70 844,321 713,720 287,720 156,321" fill="none" />
+    <polygon points="500,10 894,297 743,753 257,753 106,297" fill="none" />
+    <!-- Radians -->
+    <line x1="500" y1="500" x2="500" y2="0" />
+    <line x1="500" y1="500" x2="975" y2="345" />
+    <line x1="500" y1="500" x2="794" y2="905" />
+    <line x1="500" y1="500" x2="206" y2="905" />
+    <line x1="500" y1="500" x2="25" y2="345" />
+  </g>
+</svg>

@@ -1,0 +1,685 @@
+{
+  "hunter-x-hunter": [
+    {
+      "id": "hxh-001",
+      "name": "Gon Freecss",
+      "image": "/assets/characters/hunter-x-hunter/hxh-001.jpg"
+    },
+    {
+      "id": "hxh-002",
+      "name": "Killua Zoldyck",
+      "image": "/assets/characters/hunter-x-hunter/hxh-002.jpg"
+    },
+    {
+      "id": "hxh-003",
+      "name": "Kurapika",
+      "image": "/assets/characters/hunter-x-hunter/hxh-003.jpg"
+    },
+    {
+      "id": "hxh-004",
+      "name": "Leorio Paradinight",
+      "image": "/assets/characters/hunter-x-hunter/hxh-004.jpg"
+    },
+    {
+      "id": "hxh-005",
+      "name": "Hisoka Morow",
+      "image": "/assets/characters/hunter-x-hunter/hxh-005.jpg"
+    },
+    {
+      "id": "hxh-006",
+      "name": "Illumi Zoldyck",
+      "image": "/assets/characters/hunter-x-hunter/hxh-006.jpg"
+    },
+    {
+      "id": "hxh-007",
+      "name": "Chrollo Lucilfer",
+      "image": "/assets/characters/hunter-x-hunter/hxh-007.jpg"
+    },
+    {
+      "id": "hxh-008",
+      "name": "Ging Freecss",
+      "image": "/assets/characters/hunter-x-hunter/hxh-008.jpg"
+    },
+    {
+      "id": "hxh-009",
+      "name": "Isaac Netero",
+      "image": "/assets/characters/hunter-x-hunter/hxh-009.jpg"
+    },
+    {
+      "id": "hxh-010",
+      "name": "Kite",
+      "image": "/assets/characters/hunter-x-hunter/hxh-010.jpg"
+    },
+    {
+      "id": "hxh-011",
+      "name": "Biscuit Krueger",
+      "image": "/assets/characters/hunter-x-hunter/hxh-011.jpg"
+    },
+    {
+      "id": "hxh-012",
+      "name": "Meruem",
+      "image": "/assets/characters/hunter-x-hunter/hxh-012.jpg"
+    },
+    {
+      "id": "hxh-013",
+      "name": "Neferpitou",
+      "image": "/assets/characters/hunter-x-hunter/hxh-013.jpg"
+    },
+    {
+      "id": "hxh-014",
+      "name": "Shaiapouf",
+      "image": "/assets/characters/hunter-x-hunter/hxh-014.jpg"
+    },
+    {
+      "id": "hxh-015",
+      "name": "Menthuthuyoupi",
+      "image": "/assets/characters/hunter-x-hunter/hxh-015.jpg"
+    },
+    {
+      "id": "hxh-016",
+      "name": "Komugi",
+      "image": "/assets/characters/hunter-x-hunter/hxh-016.jpg"
+    },
+    {
+      "id": "hxh-017",
+      "name": "Knuckle Bine",
+      "image": "/assets/characters/hunter-x-hunter/hxh-017.jpg"
+    },
+    {
+      "id": "hxh-018",
+      "name": "Shoot McMahon",
+      "image": "/assets/characters/hunter-x-hunter/hxh-018.jpg"
+    },
+    {
+      "id": "hxh-019",
+      "name": "Morel Mackernasey",
+      "image": "/assets/characters/hunter-x-hunter/hxh-019.jpg"
+    },
+    {
+      "id": "hxh-020",
+      "name": "Palm Siberia",
+      "image": "/assets/characters/hunter-x-hunter/hxh-020.jpg"
+    },
+    {
+      "id": "hxh-021",
+      "name": "Zeno Zoldyck",
+      "image": "/assets/characters/hunter-x-hunter/hxh-021.jpg"
+    },
+    {
+      "id": "hxh-022",
+      "name": "Silva Zoldyck",
+      "image": "/assets/characters/hunter-x-hunter/hxh-022.jpg"
+    },
+    {
+      "id": "hxh-023",
+      "name": "Alluka Zoldyck",
+      "image": "/assets/characters/hunter-x-hunter/hxh-023.jpg"
+    },
+    {
+      "id": "hxh-024",
+      "name": "Kalluto Zoldyck",
+      "image": "/assets/characters/hunter-x-hunter/hxh-024.jpg"
+    },
+    {
+      "id": "hxh-025",
+      "name": "Nobunaga Hazama",
+      "image": "/assets/characters/hunter-x-hunter/hxh-025.jpg"
+    },
+    {
+      "id": "hxh-026",
+      "name": "Feitan Portor",
+      "image": "/assets/characters/hunter-x-hunter/hxh-026.jpg"
+    },
+    {
+      "id": "hxh-027",
+      "name": "Machi Komacine",
+      "image": "/assets/characters/hunter-x-hunter/hxh-027.jpg"
+    },
+    {
+      "id": "hxh-028",
+      "name": "Shalnark",
+      "image": "/assets/characters/hunter-x-hunter/hxh-028.jpg"
+    },
+    {
+      "id": "hxh-029",
+      "name": "Uvogin",
+      "image": "/assets/characters/hunter-x-hunter/hxh-029.jpg"
+    },
+    {
+      "id": "hxh-030",
+      "name": "Bonolenov Ndongo",
+      "image": "/assets/characters/hunter-x-hunter/hxh-030.jpg"
+    },
+    {
+      "id": "hxh-031",
+      "name": "Pakunoda",
+      "image": "/assets/characters/hunter-x-hunter/hxh-031.jpg"
+    },
+    {
+      "id": "hxh-032",
+      "name": "Franklin Bordeau",
+      "image": "/assets/characters/hunter-x-hunter/hxh-032.jpg"
+    },
+    {
+      "id": "hxh-033",
+      "name": "Kortopi",
+      "image": "/assets/characters/hunter-x-hunter/hxh-033.jpg"
+    },
+    {
+      "id": "hxh-034",
+      "name": "Phinks Magcub",
+      "image": "/assets/characters/hunter-x-hunter/hxh-034.jpg"
+    },
+    {
+      "id": "hxh-035",
+      "name": "Cheadle Yorkshire",
+      "image": "/assets/characters/hunter-x-hunter/hxh-035.jpg"
+    },
+    {
+      "id": "hxh-036",
+      "name": "Pariston Hill",
+      "image": "/assets/characters/hunter-x-hunter/hxh-036.jpg"
+    },
+    {
+      "id": "hxh-037",
+      "name": "Satotz",
+      "image": "/assets/characters/hunter-x-hunter/hxh-037.jpg"
+    },
+    {
+      "id": "hxh-038",
+      "name": "Menchi",
+      "image": "/assets/characters/hunter-x-hunter/hxh-038.jpg"
+    },
+    {
+      "id": "hxh-039",
+      "name": "Hanzo",
+      "image": "/assets/characters/hunter-x-hunter/hxh-039.jpg"
+    },
+    {
+      "id": "hxh-040",
+      "name": "Pokkle",
+      "image": "/assets/characters/hunter-x-hunter/hxh-040.jpg"
+    },
+    {
+      "id": "hxh-041",
+      "name": "Goreinu",
+      "image": "/assets/characters/hunter-x-hunter/hxh-041.jpg"
+    },
+    {
+      "id": "hxh-042",
+      "name": "Tsezguerra",
+      "image": "/assets/characters/hunter-x-hunter/hxh-042.jpg"
+    },
+    {
+      "id": "hxh-043",
+      "name": "Kurapika (Bodyguard)",
+      "image": "/assets/characters/hunter-x-hunter/hxh-043.jpg"
+    },
+    {
+      "id": "hxh-044",
+      "name": "Knov",
+      "image": "/assets/characters/hunter-x-hunter/hxh-044.jpg"
+    },
+    {
+      "id": "hxh-045",
+      "name": "Genthru",
+      "image": "/assets/characters/hunter-x-hunter/hxh-045.jpg"
+    },
+    {
+      "id": "hxh-046",
+      "name": "Gon (Adult Form)",
+      "image": "/assets/characters/hunter-x-hunter/hxh-046.jpg"
+    },
+    {
+      "id": "hxh-047",
+      "name": "Meleoron",
+      "image": "/assets/characters/hunter-x-hunter/hxh-047.jpg"
+    },
+    {
+      "id": "hxh-048",
+      "name": "Mito Freecss",
+      "image": "/assets/characters/hunter-x-hunter/hxh-048.jpg"
+    },
+    {
+      "id": "hxh-049",
+      "name": "Killua (Godspeed)",
+      "image": "/assets/characters/hunter-x-hunter/hxh-049.jpg"
+    },
+    {
+      "id": "hxh-050",
+      "name": "Tonpa",
+      "image": "/assets/characters/hunter-x-hunter/hxh-050.jpg"
+    }
+  ],
+  "naruto": [
+    {
+      "id": "naruto-001",
+      "name": "Naruto Uzumaki",
+      "image": "/assets/characters/naruto/naruto-001.jpg"
+    },
+    {
+      "id": "naruto-002",
+      "name": "Sasuke Uchiha",
+      "image": "/assets/characters/naruto/naruto-002.jpg"
+    },
+    {
+      "id": "naruto-003",
+      "name": "Sakura Haruno",
+      "image": "/assets/characters/naruto/naruto-003.jpg"
+    },
+    {
+      "id": "naruto-004",
+      "name": "Kakashi Hatake",
+      "image": "/assets/characters/naruto/naruto-004.jpg"
+    },
+    {
+      "id": "naruto-005",
+      "name": "Itachi Uchiha",
+      "image": "/assets/characters/naruto/naruto-005.jpg"
+    },
+    {
+      "id": "naruto-006",
+      "name": "Minato Namikaze",
+      "image": "/assets/characters/naruto/naruto-006.jpg"
+    },
+    {
+      "id": "naruto-007",
+      "name": "Jiraiya",
+      "image": "/assets/characters/naruto/naruto-007.jpg"
+    },
+    {
+      "id": "naruto-008",
+      "name": "Tsunade",
+      "image": "/assets/characters/naruto/naruto-008.jpg"
+    },
+    {
+      "id": "naruto-009",
+      "name": "Orochimaru",
+      "image": "/assets/characters/naruto/naruto-009.jpg"
+    },
+    {
+      "id": "naruto-010",
+      "name": "Rock Lee",
+      "image": "/assets/characters/naruto/naruto-010.jpg"
+    },
+    {
+      "id": "naruto-011",
+      "name": "Neji Hyuga",
+      "image": "/assets/characters/naruto/naruto-011.jpg"
+    },
+    {
+      "id": "naruto-012",
+      "name": "Gaara",
+      "image": "/assets/characters/naruto/naruto-012.jpg"
+    },
+    {
+      "id": "naruto-013",
+      "name": "Pain / Nagato",
+      "image": "/assets/characters/naruto/naruto-013.jpg"
+    },
+    {
+      "id": "naruto-014",
+      "name": "Konan",
+      "image": "/assets/characters/naruto/naruto-014.jpg"
+    },
+    {
+      "id": "naruto-015",
+      "name": "Obito Uchiha",
+      "image": "/assets/characters/naruto/naruto-015.jpg"
+    },
+    {
+      "id": "naruto-016",
+      "name": "Madara Uchiha",
+      "image": "/assets/characters/naruto/naruto-016.jpg"
+    },
+    {
+      "id": "naruto-017",
+      "name": "Hashirama Senju",
+      "image": "/assets/characters/naruto/naruto-017.jpg"
+    },
+    {
+      "id": "naruto-018",
+      "name": "Might Guy",
+      "image": "/assets/characters/naruto/naruto-018.jpg"
+    },
+    {
+      "id": "naruto-019",
+      "name": "Hinata Hyuga",
+      "image": "/assets/characters/naruto/naruto-019.jpg"
+    },
+    {
+      "id": "naruto-020",
+      "name": "Shikamaru Nara",
+      "image": "/assets/characters/naruto/naruto-020.jpg"
+    },
+    {
+      "id": "naruto-021",
+      "name": "Zabuza Momochi",
+      "image": "/assets/characters/naruto/naruto-021.jpg"
+    },
+    {
+      "id": "naruto-022",
+      "name": "Haku",
+      "image": "/assets/characters/naruto/naruto-022.jpg"
+    },
+    {
+      "id": "naruto-023",
+      "name": "Deidara",
+      "image": "/assets/characters/naruto/naruto-023.jpg"
+    },
+    {
+      "id": "naruto-024",
+      "name": "Sasori",
+      "image": "/assets/characters/naruto/naruto-024.jpg"
+    },
+    {
+      "id": "naruto-025",
+      "name": "Kisame Hoshigaki",
+      "image": "/assets/characters/naruto/naruto-025.jpg"
+    },
+    {
+      "id": "naruto-026",
+      "name": "Killer Bee",
+      "image": "/assets/characters/naruto/naruto-026.jpg"
+    },
+    {
+      "id": "naruto-027",
+      "name": "Temari",
+      "image": "/assets/characters/naruto/naruto-027.jpg"
+    },
+    {
+      "id": "naruto-028",
+      "name": "Kankuro",
+      "image": "/assets/characters/naruto/naruto-028.jpg"
+    },
+    {
+      "id": "naruto-029",
+      "name": "Yamato",
+      "image": "/assets/characters/naruto/naruto-029.jpg"
+    },
+    {
+      "id": "naruto-030",
+      "name": "Sai",
+      "image": "/assets/characters/naruto/naruto-030.jpg"
+    }
+  ],
+  "jujutsu-kaisen": [
+    {
+      "id": "jjk-001",
+      "name": "Yuji Itadori",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-001.jpg"
+    },
+    {
+      "id": "jjk-002",
+      "name": "Megumi Fushiguro",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-002.jpg"
+    },
+    {
+      "id": "jjk-003",
+      "name": "Nobara Kugisaki",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-003.jpg"
+    },
+    {
+      "id": "jjk-004",
+      "name": "Satoru Gojo",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-004.jpg"
+    },
+    {
+      "id": "jjk-005",
+      "name": "Ryomen Sukuna",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-005.jpg"
+    },
+    {
+      "id": "jjk-006",
+      "name": "Kento Nanami",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-006.jpg"
+    },
+    {
+      "id": "jjk-007",
+      "name": "Mahito",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-007.jpg"
+    },
+    {
+      "id": "jjk-008",
+      "name": "Suguru Geto",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-008.jpg"
+    },
+    {
+      "id": "jjk-009",
+      "name": "Aoi Todo",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-009.jpg"
+    },
+    {
+      "id": "jjk-010",
+      "name": "Toge Inumaki",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-010.jpg"
+    },
+    {
+      "id": "jjk-011",
+      "name": "Panda",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-011.jpg"
+    },
+    {
+      "id": "jjk-012",
+      "name": "Yuta Okkotsu",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-012.jpg"
+    },
+    {
+      "id": "jjk-013",
+      "name": "Maki Zenin",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-013.jpg"
+    },
+    {
+      "id": "jjk-014",
+      "name": "Hanami",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-014.jpg"
+    },
+    {
+      "id": "jjk-015",
+      "name": "Masamichi Yaga",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-015.jpg"
+    },
+    {
+      "id": "jjk-016",
+      "name": "Choso",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-016.jpg"
+    },
+    {
+      "id": "jjk-017",
+      "name": "Kasumi Miwa",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-017.jpg"
+    },
+    {
+      "id": "jjk-018",
+      "name": "Mechamaru",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-018.jpg"
+    },
+    {
+      "id": "jjk-019",
+      "name": "Mei Mei",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-019.jpg"
+    },
+    {
+      "id": "jjk-020",
+      "name": "Noritoshi Kamo",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-020.jpg"
+    },
+    {
+      "id": "jjk-021",
+      "name": "Mai Zenin",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-021.jpg"
+    },
+    {
+      "id": "jjk-022",
+      "name": "Dagon",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-022.jpg"
+    },
+    {
+      "id": "jjk-023",
+      "name": "Naobito Zenin",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-023.jpg"
+    },
+    {
+      "id": "jjk-024",
+      "name": "Toji Fushiguro",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-024.jpg"
+    },
+    {
+      "id": "jjk-025",
+      "name": "Jogo",
+      "image": "/assets/characters/jujutsu-kaisen/jjk-025.jpg"
+    }
+  ],
+  "one-piece": [
+    {
+      "id": "op-001",
+      "name": "Monkey D. Luffy",
+      "image": "/assets/characters/one-piece/op-001.jpg"
+    },
+    {
+      "id": "op-002",
+      "name": "Roronoa Zoro",
+      "image": "/assets/characters/one-piece/op-002.jpg"
+    },
+    {
+      "id": "op-003",
+      "name": "Nami",
+      "image": "/assets/characters/one-piece/op-003.jpg"
+    },
+    {
+      "id": "op-004",
+      "name": "Usopp",
+      "image": "/assets/characters/one-piece/op-004.jpg"
+    },
+    {
+      "id": "op-005",
+      "name": "Sanji",
+      "image": "/assets/characters/one-piece/op-005.jpg"
+    },
+    {
+      "id": "op-006",
+      "name": "Tony Tony Chopper",
+      "image": "/assets/characters/one-piece/op-006.jpg"
+    },
+    {
+      "id": "op-007",
+      "name": "Nico Robin",
+      "image": "/assets/characters/one-piece/op-007.jpg"
+    },
+    {
+      "id": "op-008",
+      "name": "Franky",
+      "image": "/assets/characters/one-piece/op-008.jpg"
+    },
+    {
+      "id": "op-009",
+      "name": "Brook",
+      "image": "/assets/characters/one-piece/op-009.jpg"
+    },
+    {
+      "id": "op-010",
+      "name": "Jinbe",
+      "image": "/assets/characters/one-piece/op-010.jpg"
+    },
+    {
+      "id": "op-011",
+      "name": "Garp",
+      "image": "/assets/characters/one-piece/op-011.jpg"
+    },
+    {
+      "id": "op-012",
+      "name": "Akainu",
+      "image": "/assets/characters/one-piece/op-012.jpg"
+    },
+    {
+      "id": "op-013",
+      "name": "Whitebeard",
+      "image": "/assets/characters/one-piece/op-013.jpg"
+    },
+    {
+      "id": "op-014",
+      "name": "Shanks",
+      "image": "/assets/characters/one-piece/op-014.jpg"
+    },
+    {
+      "id": "op-015",
+      "name": "Kaido",
+      "image": "/assets/characters/one-piece/op-015.jpg"
+    },
+    {
+      "id": "op-016",
+      "name": "Big Mom",
+      "image": "/assets/characters/one-piece/op-016.jpg"
+    },
+    {
+      "id": "op-017",
+      "name": "Portgas D. Ace",
+      "image": "/assets/characters/one-piece/op-017.jpg"
+    },
+    {
+      "id": "op-018",
+      "name": "Trafalgar Law",
+      "image": "/assets/characters/one-piece/op-018.jpg"
+    },
+    {
+      "id": "op-019",
+      "name": "Dracule Mihawk",
+      "image": "/assets/characters/one-piece/op-019.jpg"
+    },
+    {
+      "id": "op-020",
+      "name": "Boa Hancock",
+      "image": "/assets/characters/one-piece/op-020.jpg"
+    },
+    {
+      "id": "op-021",
+      "name": "Crocodile",
+      "image": "/assets/characters/one-piece/op-021.jpg"
+    },
+    {
+      "id": "op-022",
+      "name": "Donquixote Doflamingo",
+      "image": "/assets/characters/one-piece/op-022.jpg"
+    },
+    {
+      "id": "op-023",
+      "name": "Marshall D. Teach",
+      "image": "/assets/characters/one-piece/op-023.jpg"
+    },
+    {
+      "id": "op-024",
+      "name": "Silvers Rayleigh",
+      "image": "/assets/characters/one-piece/op-024.jpg"
+    },
+    {
+      "id": "op-025",
+      "name": "Kuzan",
+      "image": "/assets/characters/one-piece/op-025.jpg"
+    },
+    {
+      "id": "op-026",
+      "name": "Sabo",
+      "image": "/assets/characters/one-piece/op-026.jpg"
+    },
+    {
+      "id": "op-027",
+      "name": "Monkey D. Dragon",
+      "image": "/assets/characters/one-piece/op-027.jpg"
+    },
+    {
+      "id": "op-028",
+      "name": "Yamato",
+      "image": "/assets/characters/one-piece/op-028.jpg"
+    },
+    {
+      "id": "op-029",
+      "name": "Buggy",
+      "image": "/assets/characters/one-piece/op-029.jpg"
+    },
+    {
+      "id": "op-030",
+      "name": "Charlotte Katakuri",
+      "image": "/assets/characters/one-piece/op-030.jpg"
+    }
+  ]
+}
